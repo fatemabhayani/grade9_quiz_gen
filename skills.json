@@ -1,0 +1,260 @@
+{
+  "ALG_DEV_CULTURE": {
+    "strand": "Algebra",
+    "expectation_code": "C1.1",
+    "expectation_text": "Research an algebraic concept to tell a story about its development and cultural use",
+    "notes": "Connects algebra history with cultural context"
+  },
+  "ALG_CREATE_EXPRESS": {
+    "strand": "Algebra",
+    "expectation_code": "C1.2",
+    "expectation_text": "Create algebraic expressions to generalize relationships from words, numbers, visuals",
+    "notes": "Translation between representations"
+  },
+  "ALG_COMPARE_EXPRESS": {
+    "strand": "Algebra",
+    "expectation_code": "C1.3",
+    "expectation_text": "Compare algebraic expressions using multiple methods to identify equivalence",
+    "notes": "Concrete, numerical, graphical, symbolic"
+  },
+  "ALG_SIMPLIFY_EXPRESS": {
+    "strand": "Algebra",
+    "expectation_code": "C1.4",
+    "expectation_text": "Simplify algebraic expressions by applying properties of operations",
+    "notes": "Uses various tools and contexts"
+  },
+  "ALG_CREATE_SOLVE_EQ": {
+    "strand": "Algebra",
+    "expectation_code": "C1.5",
+    "expectation_text": "Create and solve equations in various contexts, verify solutions",
+    "notes": "Problem-solving with algebra"
+  },
+  "ALG_CODE_VARS": {
+    "strand": "Algebra",
+    "expectation_code": "C2.1",
+    "expectation_text": "Use coding to demonstrate understanding of variables, parameters, equations, inequalities",
+    "notes": "Dynamic math representation in code"
+  },
+  "ALG_CODE_DECOMP": {
+    "strand": "Algebra",
+    "expectation_code": "C2.2",
+    "expectation_text": "Create code by decomposing situations into computational steps to represent math concepts",
+    "notes": "Algorithms for math relationships"
+  },
+  "ALG_CODE_READ_MODIFY": {
+    "strand": "Algebra",
+    "expectation_code": "C2.3",
+    "expectation_text": "Read code to predict outcomes; alter to adjust constraints/parameters/outcomes",
+    "notes": "Debugging and modifying math code"
+  },
+  "ALG_COMPARE_LINEAR_NONLIN": {
+    "strand": "Algebra",
+    "expectation_code": "C3.1",
+    "expectation_text": "Compare graphs of linear and non-linear relations to describe rates of change and predict patterns",
+    "notes": "Connections to growing/shrinking patterns"
+  },
+  "ALG_REP_LINEAR": {
+    "strand": "Algebra",
+    "expectation_code": "C3.2",
+    "expectation_text": "Represent linear relations with materials, tables, graphs, equations; connect representations",
+    "notes": "Rates of change and initial values"
+  },
+  "ALG_COMPARE_2_LINEAR": {
+    "strand": "Algebra",
+    "expectation_code": "C3.3",
+    "expectation_text": "Compare two linear relations (y=ax+b) graphically/algebraically; interpret point of intersection",
+    "notes": "Meaning in context"
+  },
+  "ALG_COMPARE_CHARACT": {
+    "strand": "Algebra",
+    "expectation_code": "C4.1",
+    "expectation_text": "Compare characteristics of graphs, tables, and equations of linear and non-linear relations",
+    "notes": "Multiple representation analysis"
+  },
+  "ALG_GRAPH_FORMS": {
+    "strand": "Algebra",
+    "expectation_code": "C4.2",
+    "expectation_text": "Graph equations of forms x=k, y=k, x+y=k, x-y=k, ax+by=k, xy=k and inequalities; identify characteristics",
+    "notes": "Includes region identification"
+  },
+  "ALG_TRANSFORM_LINES": {
+    "strand": "Algebra",
+    "expectation_code": "C4.3",
+    "expectation_text": "Translate, reflect, rotate lines (y=ax); describe effects on graphs and equations",
+    "notes": "Transformations in coordinate plane"
+  },
+  "ALG_DETERMINE_EQ": {
+    "strand": "Algebra",
+    "expectation_code": "C4.4",
+    "expectation_text": "Determine equations of lines from graphs/tables/concrete representations; solve problems",
+    "notes": "Slope, y-intercept connections"
+  },
+  "DATA_BIGDATA_CONTEXT": {
+    "strand": "Data",
+    "expectation_code": "D1.1",
+    "expectation_text": "Identify a current context with large data; describe implications of collection, storage, representation, and use",
+    "notes": "Privacy, ethics, real-world big data"
+  },
+  "DATA_SINGLE_VAR": {
+    "strand": "Data",
+    "expectation_code": "D1.2",
+    "expectation_text": "Represent and analyse single-variable data using various methods incl. quartiles and box plots",
+    "notes": "Central tendency, spread"
+  },
+  "DATA_SCATTER_REGRESS": {
+    "strand": "Data",
+    "expectation_code": "D1.3",
+    "expectation_text": "Create scatter plot, test regression models, determine correlation, make predictions",
+    "notes": "Linear, non-linear regression"
+  },
+  "DATA_MODEL_VALUE": {
+    "strand": "Data",
+    "expectation_code": "D2.1",
+    "expectation_text": "Describe value of mathematical modelling in real life for decision making",
+    "notes": "Applications across domains"
+  },
+  "DATA_MODEL_QUESTION": {
+    "strand": "Data",
+    "expectation_code": "D2.2",
+    "expectation_text": "Identify a question requiring data collection/analysis and information needed to answer",
+    "notes": "Question formulation"
+  },
+  "DATA_MODEL_PLAN": {
+    "strand": "Data",
+    "expectation_code": "D2.3",
+    "expectation_text": "Plan and carry out data collection, identify assumptions and variables",
+    "notes": "Data sourcing and planning"
+  },
+  "DATA_MODEL_ANALYSE": {
+    "strand": "Data",
+    "expectation_code": "D2.4",
+    "expectation_text": "Display and analyse data to create a model, considering data nature, context, assumptions",
+    "notes": "Choosing representations and methods"
+  },
+  "DATA_MODEL_REPORT": {
+    "strand": "Data",
+    "expectation_code": "D2.5",
+    "expectation_text": "Report on model use, fit, limitations, and predictions",
+    "notes": "Communicating findings"
+  },
+  "FIN_CONTEXT_DECISION": {
+    "strand": "Financial Literacy",
+    "expectation_code": "F1.1",
+    "expectation_text": "Identify a financial situation and explain how it informs decisions using context and math knowledge",
+    "notes": "Personal finance scenarios"
+  },
+  "FIN_APPREC_DEPREC": {
+    "strand": "Financial Literacy",
+    "expectation_code": "F1.2",
+    "expectation_text": "Identify situations involving appreciation/depreciation and use graphs to answer questions",
+    "notes": "Value changes over time"
+  },
+  "FIN_COMPARE_INTEREST": {
+    "strand": "Financial Literacy",
+    "expectation_code": "F1.3",
+    "expectation_text": "Compare effects of interest rates, terms, calculation methods, down payments on total costs",
+    "notes": "Loans, mortgages, purchasing"
+  },
+  "FIN_MODIFY_BUDGET": {
+    "strand": "Financial Literacy",
+    "expectation_code": "F1.4",
+    "expectation_text": "Modify budgets to reflect changes in circumstances and provide rationale",
+    "notes": "Budgeting and financial planning"
+  },
+  "GEOM_DEV_CULTURE": {
+    "strand": "Geometry & Measurement",
+    "expectation_code": "E1.1",
+    "expectation_text": "Research a geometric concept or measurement system to tell its development story and cultural/career relevance",
+    "notes": "Math history and cross-disciplinary links"
+  },
+  "GEOM_CREATE_ANALYSE_DESIGNS": {
+    "strand": "Geometry & Measurement",
+    "expectation_code": "E1.2",
+    "expectation_text": "Create and analyse designs with geometric relationships and circle/triangle properties",
+    "notes": "Uses tools for design and analysis"
+  },
+  "GEOM_SOLVE_UNITS": {
+    "strand": "Geometry & Measurement",
+    "expectation_code": "E1.3",
+    "expectation_text": "Solve problems converting within/between measurement systems from various cultures",
+    "notes": "Unit conversions, representation, tech use"
+  },
+  "GEOM_DIMENSION_CHANGE": {
+    "strand": "Geometry & Measurement",
+    "expectation_code": "E1.4",
+    "expectation_text": "Show how dimension changes affect perimeter, area, surface area, volume",
+    "notes": "Scaling relationships"
+  },
+  "GEOM_RIGHT_TRIANGLES": {
+    "strand": "Geometry & Measurement",
+    "expectation_code": "E1.5",
+    "expectation_text": "Solve problems with side-length relationships in right triangles in real contexts",
+    "notes": "Pythagoras, trig, composite shapes"
+  },
+  "GEOM_VOLUME_REL": {
+    "strand": "Geometry & Measurement",
+    "expectation_code": "E1.6",
+    "expectation_text": "Solve problems using volume relationships between prisms/pyramids and cylinders/cones",
+    "notes": "Volume formulas and conversions"
+  },
+  "NUM_DEV_CULTURE": {
+    "strand": "Number",
+    "expectation_code": "B1.1",
+    "expectation_text": "Research a number concept to tell a story about its development and use in a specific culture",
+    "notes": "Connects math history with cultural context"
+  },
+  "NUM_SETS_COMPARE": {
+    "strand": "Number",
+    "expectation_code": "B1.2",
+    "expectation_text": "Describe how various subsets of a number system are defined, and compare similarities/differences",
+    "notes": "Natural, whole, integers, rationals, irrationals"
+  },
+  "NUM_DENSITY_INFINITY": {
+    "strand": "Number",
+    "expectation_code": "B1.3",
+    "expectation_text": "Use patterns and number relationships to explain density, infinity, and limit in number sets",
+    "notes": "Intro to real number properties"
+  },
+  "NUM_POWERS_SIGN_SIZE": {
+    "strand": "Number",
+    "expectation_code": "B2.1",
+    "expectation_text": "Analyse relationship between sign/size of an exponent and value of a power; express in scientific notation",
+    "notes": "Positive, negative, zero exponents"
+  },
+  "NUM_POWERS_LAWS": {
+    "strand": "Number",
+    "expectation_code": "B2.2",
+    "expectation_text": "Analyse and use exponent laws to simplify numeric/algebraic expressions",
+    "notes": "Product, quotient, power laws"
+  },
+  "NUM_INTEGERS_CONTEXT": {
+    "strand": "Number",
+    "expectation_code": "B3.1",
+    "expectation_text": "Apply understanding of integers to describe location, direction, amount, and changes",
+    "notes": "Number lines, temperature, elevation"
+  },
+  "NUM_UNIT_FRACTIONS": {
+    "strand": "Number",
+    "expectation_code": "B3.2",
+    "expectation_text": "Apply understanding of unit fractions and their relation to other fractions",
+    "notes": "Measurement and proportional reasoning"
+  },
+  "NUM_SIGNS_RATIOS": {
+    "strand": "Number",
+    "expectation_code": "B3.3",
+    "expectation_text": "Apply understanding of integers to explain effect of signs on ratios, rates, fractions, decimals",
+    "notes": "Sign rules"
+  },
+  "NUM_OPS_FRACTIONS": {
+    "strand": "Number",
+    "expectation_code": "B3.4",
+    "expectation_text": "Solve problems with operations on positive/negative fractions and mixed numbers",
+    "notes": "Formulas, measurement, linear relations"
+  },
+  "NUM_RATES_PERCENTS": {
+    "strand": "Number",
+    "expectation_code": "B3.5",
+    "expectation_text": "Pose and solve problems with rates, percentages, and proportions in real contexts",
+    "notes": "Connections to data, measurement, geometry, financial literacy"
+  }
+}

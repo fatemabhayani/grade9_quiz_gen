@@ -1,0 +1,44 @@
+skill_id,strand,expectation_code,expectation_text,notes
+ALG_DEV_CULTURE,Algebra,C1.1,Research an algebraic concept to tell a story about its development and cultural use,Connects algebra history with cultural context
+ALG_CREATE_EXPRESS,Algebra,C1.2,"Create algebraic expressions to generalize relationships from words, numbers, visuals",Translation between representations
+ALG_COMPARE_EXPRESS,Algebra,C1.3,Compare algebraic expressions using multiple methods to identify equivalence,"Concrete, numerical, graphical, symbolic"
+ALG_SIMPLIFY_EXPRESS,Algebra,C1.4,Simplify algebraic expressions by applying properties of operations,Uses various tools and contexts
+ALG_CREATE_SOLVE_EQ,Algebra,C1.5,"Create and solve equations in various contexts, verify solutions",Problem-solving with algebra
+ALG_CODE_VARS,Algebra,C2.1,"Use coding to demonstrate understanding of variables, parameters, equations, inequalities",Dynamic math representation in code
+ALG_CODE_DECOMP,Algebra,C2.2,Create code by decomposing situations into computational steps to represent math concepts,Algorithms for math relationships
+ALG_CODE_READ_MODIFY,Algebra,C2.3,Read code to predict outcomes; alter to adjust constraints/parameters/outcomes,Debugging and modifying math code
+ALG_COMPARE_LINEAR_NONLIN,Algebra,C3.1,Compare graphs of linear and non-linear relations to describe rates of change and predict patterns,Connections to growing/shrinking patterns
+ALG_REP_LINEAR,Algebra,C3.2,"Represent linear relations with materials, tables, graphs, equations; connect representations",Rates of change and initial values
+ALG_COMPARE_2_LINEAR,Algebra,C3.3,Compare two linear relations (y=ax+b) graphically/algebraically; interpret point of intersection,Meaning in context
+ALG_COMPARE_CHARACT,Algebra,C4.1,"Compare characteristics of graphs, tables, and equations of linear and non-linear relations",Multiple representation analysis
+ALG_GRAPH_FORMS,Algebra,C4.2,"Graph equations of forms x=k, y=k, x+y=k, x-y=k, ax+by=k, xy=k and inequalities; identify characteristics",Includes region identification
+ALG_TRANSFORM_LINES,Algebra,C4.3,"Translate, reflect, rotate lines (y=ax); describe effects on graphs and equations",Transformations in coordinate plane
+ALG_DETERMINE_EQ,Algebra,C4.4,Determine equations of lines from graphs/tables/concrete representations; solve problems,"Slope, y-intercept connections"
+DATA_BIGDATA_CONTEXT,Data,D1.1,"Identify a current context with large data; describe implications of collection, storage, representation, and use","Privacy, ethics, real-world big data"
+DATA_SINGLE_VAR,Data,D1.2,Represent and analyse single-variable data using various methods incl. quartiles and box plots,"Central tendency, spread"
+DATA_SCATTER_REGRESS,Data,D1.3,"Create scatter plot, test regression models, determine correlation, make predictions","Linear, non-linear regression"
+DATA_MODEL_VALUE,Data,D2.1,Describe value of mathematical modelling in real life for decision making,Applications across domains
+DATA_MODEL_QUESTION,Data,D2.2,Identify a question requiring data collection/analysis and information needed to answer,Question formulation
+DATA_MODEL_PLAN,Data,D2.3,"Plan and carry out data collection, identify assumptions and variables",Data sourcing and planning
+DATA_MODEL_ANALYSE,Data,D2.4,"Display and analyse data to create a model, considering data nature, context, assumptions",Choosing representations and methods
+DATA_MODEL_REPORT,Data,D2.5,"Report on model use, fit, limitations, and predictions",Communicating findings
+FIN_CONTEXT_DECISION,Financial Literacy,F1.1,Identify a financial situation and explain how it informs decisions using context and math knowledge,Personal finance scenarios
+FIN_APPREC_DEPREC,Financial Literacy,F1.2,Identify situations involving appreciation/depreciation and use graphs to answer questions,Value changes over time
+FIN_COMPARE_INTEREST,Financial Literacy,F1.3,"Compare effects of interest rates, terms, calculation methods, down payments on total costs","Loans, mortgages, purchasing"
+FIN_MODIFY_BUDGET,Financial Literacy,F1.4,Modify budgets to reflect changes in circumstances and provide rationale,Budgeting and financial planning
+GEOM_DEV_CULTURE,Geometry & Measurement,E1.1,Research a geometric concept or measurement system to tell its development story and cultural/career relevance,Math history and cross-disciplinary links
+GEOM_CREATE_ANALYSE_DESIGNS,Geometry & Measurement,E1.2,Create and analyse designs with geometric relationships and circle/triangle properties,Uses tools for design and analysis
+GEOM_SOLVE_UNITS,Geometry & Measurement,E1.3,Solve problems converting within/between measurement systems from various cultures,"Unit conversions, representation, tech use"
+GEOM_DIMENSION_CHANGE,Geometry & Measurement,E1.4,"Show how dimension changes affect perimeter, area, surface area, volume",Scaling relationships
+GEOM_RIGHT_TRIANGLES,Geometry & Measurement,E1.5,Solve problems with side-length relationships in right triangles in real contexts,"Pythagoras, trig, composite shapes"
+GEOM_VOLUME_REL,Geometry & Measurement,E1.6,Solve problems using volume relationships between prisms/pyramids and cylinders/cones,Volume formulas and conversions
+NUM_DEV_CULTURE,Number,B1.1,Research a number concept to tell a story about its development and use in a specific culture,Connects math history with cultural context
+NUM_SETS_COMPARE,Number,B1.2,"Describe how various subsets of a number system are defined, and compare similarities/differences","Natural, whole, integers, rationals, irrationals"
+NUM_DENSITY_INFINITY,Number,B1.3,"Use patterns and number relationships to explain density, infinity, and limit in number sets",Intro to real number properties
+NUM_POWERS_SIGN_SIZE,Number,B2.1,Analyse relationship between sign/size of an exponent and value of a power; express in scientific notation,"Positive, negative, zero exponents"
+NUM_POWERS_LAWS,Number,B2.2,Analyse and use exponent laws to simplify numeric/algebraic expressions,"Product, quotient, power laws"
+NUM_INTEGERS_CONTEXT,Number,B3.1,"Apply understanding of integers to describe location, direction, amount, and changes","Number lines, temperature, elevation"
+NUM_UNIT_FRACTIONS,Number,B3.2,Apply understanding of unit fractions and their relation to other fractions,Measurement and proportional reasoning
+NUM_SIGNS_RATIOS,Number,B3.3,"Apply understanding of integers to explain effect of signs on ratios, rates, fractions, decimals",Sign rules
+NUM_OPS_FRACTIONS,Number,B3.4,Solve problems with operations on positive/negative fractions and mixed numbers,"Formulas, measurement, linear relations"
+NUM_RATES_PERCENTS,Number,B3.5,"Pose and solve problems with rates, percentages, and proportions in real contexts","Connections to data, measurement, geometry, financial literacy"
