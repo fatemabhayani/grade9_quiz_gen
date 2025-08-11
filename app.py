@@ -8,6 +8,42 @@ st.set_page_config(page_title="Grade 9 Quiz Generator (Ontario)", layout="wide")
 st.title("Ontario Grade 9 Math — Quiz Generator")
 st.caption("Pick a skill → generate questions (easy/medium/hard) → copy or export")
 
+#Troubleshoot
+for k in ("HTTP_PROXY","HTTPS_PROXY","ALL_PROXY","http_proxy","https_proxy","all_proxy"):
+    os.environ.pop(k, None)
+
+def call_llm(api_key, model, prompt, max_tokens):
+    # Try modern SDK first
+    try:
+        from openai import OpenAI, __version__ as openai_version
+        st.sidebar.success(f"OpenAI SDK detected: {openai_version}")
+        client = OpenAI(api_key=api_key)
+        resp = client.chat.completions.create(
+            model=model,
+            messages=[
+                {"role":"system","content":"You are a tutor"},
+                {"role":"user","content":prompt}
+            ],
+            temperature=0.3,
+            max_tokens=max_tokens
+        )
+        return resp.choices[0].message.content
+    except ImportError:
+        # Legacy fallback (rare): old 0.x client
+        st.sidebar.warning("Using legacy OpenAI client (0.x). Consider upgrading requirements.txt to openai==1.37.0")
+        import openai  # type: ignore
+        openai.api_key = api_key
+        resp = openai.ChatCompletion.create(  # legacy path
+            model="gpt-3.5-turbo",  # adjust if needed
+            messages=[
+                {"role":"system","content":"You are a tutor"},
+                {"role":"user","content":prompt}
+            ],
+            temperature=0.3,
+            max_tokens=max_tokens
+        )
+        return resp["choices"][0]["message"]["content"]
+
 # Load skills
 @st.cache_data
 def load_skills():
@@ -65,16 +101,8 @@ if st.button("Generate"):
         with st.spinner("Calling model..."):
             try:
                 # Lazy import to avoid dependency if not used
-                from openai import OpenAI
-                client = OpenAI(api_key=api_key)
                 prompt = build_prompt(skill_id, choice_row["expectation_text"], difficulty, n_q)
-                resp = client.chat.completions.create(
-                    model=model,
-                    messages=[{"role":"user","content":prompt}],
-                    temperature=0.3,
-                    max_tokens=max_tokens
-                )
-                raw = resp.choices[0].message.content
+                raw = call_llm(api_key, model, prompt, max_tokens)
                 try:
                     data = json.loads(raw)
                     qs = data.get("questions", [])
