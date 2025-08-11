@@ -8,23 +8,26 @@ st.set_page_config(page_title="Grade 9 Quiz Generator (Ontario)", layout="wide")
 st.title("Ontario Grade 9 Math — Quiz Generator")
 st.caption("Pick a skill → generate questions (easy/medium/hard) → copy or export")
 
-#Troubleshoot
-for k in ("HTTP_PROXY","HTTPS_PROXY","ALL_PROXY","http_proxy","https_proxy","all_proxy"):
-    os.environ.pop(k, None)
+from openai import OpenAI
+import httpx
 
-try:
-    from openai import __version__ as openai_version
-    import httpx
-    sig = str(inspect.signature(httpx.Client.__init__))
-    st.sidebar.info(f"OpenAI SDK: {openai_version} | httpx: {httpx.__version__}\nhttpx.Client.__init__{sig}")
-except Exception as e:
-    st.sidebar.error(f"Version probe failed: {e}")
+def make_openai_client(api_key: str) -> OpenAI:
+    # trust_env=False ignores any proxy config from env;
+    # explicitly provide no proxies
+    transport = httpx.HTTPTransport(retries=3)
+    http_client = httpx.Client(
+        trust_env=False,           # ignore HTTP(S)_PROXY and friends
+        timeout=30.0,
+        transport=transport
+        # NOTE: DO NOT pass `proxies=` at all
+    )
+    return OpenAI(api_key=api_key, http_client=http_client)
 
 def call_llm(api_key, model, prompt, max_tokens):
     # Try modern SDK first
     try:
         from openai import OpenAI
-        client = OpenAI(api_key=api_key)
+        client = make_openai_client(api_key)
         resp = client.chat.completions.create(
             model=model,
             messages=[
