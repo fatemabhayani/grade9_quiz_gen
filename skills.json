@@ -1,260 +1,3018 @@
 {
-  "ALG_DEV_CULTURE": {
-    "strand": "Algebra",
-    "expectation_code": "C1.1",
-    "expectation_text": "Research an algebraic concept to tell a story about its development and cultural use",
-    "notes": "Connects algebra history with cultural context"
+  "1": {
+    "Algebra": [
+      {
+        "skill_id": "G1_ALG_PATTERNS_IDENTIFY",
+        "grade": 1,
+        "strand": "Algebra",
+        "expectation_code": "C1.1",
+        "expectation_text": "Patterns identify and describe the regularities in a variety of patterns, including patterns found in real- life contexts",
+        "notes": "identify patterns, rules, make predictions"
+      },
+      {
+        "skill_id": "G1_ALG_PATTERNS_CREATE",
+        "grade": 1,
+        "strand": "Algebra",
+        "expectation_code": "C1.2",
+        "expectation_text": "Patterns create and translate patterns using movements, sounds, objects, shapes, letters, and numbers 124",
+        "notes": "identify patterns, rules, make predictions"
+      },
+      {
+        "skill_id": "G1_ALG_PATTERNS_DETERMINE",
+        "grade": 1,
+        "strand": "Algebra",
+        "expectation_code": "C1.3",
+        "expectation_text": "Patterns determine pattern rules and use them to extend patterns, make and justify predictions, and identify missing elements in patterns",
+        "notes": "identify patterns, rules, make predictions"
+      },
+      {
+        "skill_id": "G1_ALG_PATTERNS_CREATE",
+        "grade": 1,
+        "strand": "Algebra",
+        "expectation_code": "C1.4",
+        "expectation_text": "Patterns create and describe patterns to illustrate relationships among whole numbers up to 50",
+        "notes": "identify patterns, rules, make predictions"
+      },
+      {
+        "skill_id": "G1_ALG_VARIABLES_IDENTIFY",
+        "grade": 1,
+        "strand": "Algebra",
+        "expectation_code": "C2.1",
+        "expectation_text": "Variables identify quantities that can change and quantities that always remain the same in real-life contexts",
+        "notes": "equalities, inequalities, solve and balance"
+      },
+      {
+        "skill_id": "G1_ALG_EQUALITIES_INEQUALITIES",
+        "grade": 1,
+        "strand": "Algebra",
+        "expectation_code": "C2.2",
+        "expectation_text": "Equalities and Inequalities determine whether given pairs of addition and subtraction expressions are equivalent or not",
+        "notes": "equalities, inequalities, solve and balance"
+      },
+      {
+        "skill_id": "G1_ALG_EQUALITIES_INEQUALITIES",
+        "grade": 1,
+        "strand": "Algebra",
+        "expectation_code": "C2.3",
+        "expectation_text": "Equalities and Inequalities identify and use equivalent relationships for whole numbers up to 50, in various contexts 127",
+        "notes": "equalities, inequalities, solve and balance"
+      },
+      {
+        "skill_id": "G1_ALG_CODING_SKILLS",
+        "grade": 1,
+        "strand": "Algebra",
+        "expectation_code": "C3.1",
+        "expectation_text": "Coding Skills solve problems and create computational representations of mathematical situations by writing and executing code, including code that involves sequential events",
+        "notes": "write algorithms, debug, predict outputs"
+      },
+      {
+        "skill_id": "G1_ALG_CODING_SKILLS",
+        "grade": 1,
+        "strand": "Algebra",
+        "expectation_code": "C3.2",
+        "expectation_text": "Coding Skills read and alter existing code, including code that involves sequential events, and describe how changes to the code affect the outcomes",
+        "notes": "write algorithms, debug, predict outputs"
+      }
+    ],
+    "Data": [
+      {
+        "skill_id": "G1_DATA_DATA_COLLECTION",
+        "grade": 1,
+        "strand": "Data",
+        "expectation_code": "D1.1",
+        "expectation_text": "Data Collection and Organization sort sets of data about people or things according to one attribute, and describe rules used for sorting 130",
+        "notes": "collect, organize, display, interpret data"
+      },
+      {
+        "skill_id": "G1_DATA_DATA_COLLECTION",
+        "grade": 1,
+        "strand": "Data",
+        "expectation_code": "D1.2",
+        "expectation_text": "Data Collection and Organization collect data through observations, experiments, and interviews to answer questions of interest that focus on a single piece of information; record the data using methods of their choice; and organize the data in tally tables",
+        "notes": "collect, organize, display, interpret data"
+      },
+      {
+        "skill_id": "G1_DATA_DATA_VISUALIZATION",
+        "grade": 1,
+        "strand": "Data",
+        "expectation_code": "D1.3",
+        "expectation_text": "Data Visualization display sets of data, using one-to-one correspondence, in concrete graphs and pictographs with proper sources, titles, and labels",
+        "notes": "collect, organize, display, interpret data"
+      },
+      {
+        "skill_id": "G1_DATA_DATA_ANALYSIS",
+        "grade": 1,
+        "strand": "Data",
+        "expectation_code": "D1.4",
+        "expectation_text": "Data Analysis order categories of data from greatest to least frequency for various data sets displayed in tally tables, concrete graphs, and pictographs",
+        "notes": "collect, organize, display, interpret data"
+      },
+      {
+        "skill_id": "G1_DATA_DATA_ANALYSIS",
+        "grade": 1,
+        "strand": "Data",
+        "expectation_code": "D1.5",
+        "expectation_text": "Data Analysis analyse different sets of data presented in various ways, including in tally tables, concrete graphs, and pictographs, by asking and answering questions about the data and drawing conclusions, then make convincing arguments and informed decisions",
+        "notes": "collect, organize, display, interpret data"
+      },
+      {
+        "skill_id": "G1_DATA_PROBABILITY_MATHEMATICAL",
+        "grade": 1,
+        "strand": "Data",
+        "expectation_code": "D2.1",
+        "expectation_text": "Probability use mathematical language, including the terms \u201cimpossible\u201d, \u201cpossible\u201d, and \u201ccertain\u201d, to describe the likelihood of events happening, and use that likelihood to make predictions and informed decisions",
+        "notes": "describe likelihood; simple experimental probability"
+      },
+      {
+        "skill_id": "G1_DATA_PROBABILITY_MAKE",
+        "grade": 1,
+        "strand": "Data",
+        "expectation_code": "D2.2",
+        "expectation_text": "Probability make and test predictions about the likelihood that the categories in a data set from one population will have the same frequencies in data collected from a different population of the same size 134",
+        "notes": "describe likelihood; simple experimental probability"
+      }
+    ],
+    "Financial Literacy": [
+      {
+        "skill_id": "G1_FIN_MONEY_CONCEPTS",
+        "grade": 1,
+        "strand": "Financial Literacy",
+        "expectation_code": "F1.1",
+        "expectation_text": "Money Concepts identify the various Canadian coins up to 50\u00a2 and coins and bills up to $50, and compare their values",
+        "notes": "money, budgets, transactions, consumer decisions"
+      }
+    ],
+    "Number": [
+      {
+        "skill_id": "G1_NUM_WHOLE_NUMBERS",
+        "grade": 1,
+        "strand": "Number",
+        "expectation_code": "B1.1",
+        "expectation_text": "Whole Numbers read and represent whole numbers up to and including 50, and describe various ways they are used in everyday life",
+        "notes": "place value, comparing, operations, fractions"
+      },
+      {
+        "skill_id": "G1_NUM_WHOLE_NUMBERS",
+        "grade": 1,
+        "strand": "Number",
+        "expectation_code": "B1.2",
+        "expectation_text": "Whole Numbers compose and decompose whole numbers up to and including 50, using a variety of tools and strategies, in various contexts",
+        "notes": "place value, comparing, operations, fractions"
+      },
+      {
+        "skill_id": "G1_NUM_WHOLE_NUMBERS",
+        "grade": 1,
+        "strand": "Number",
+        "expectation_code": "B1.3",
+        "expectation_text": "Whole Numbers compare and order whole numbers up to and including 50, in various contexts 114",
+        "notes": "place value, comparing, operations, fractions"
+      },
+      {
+        "skill_id": "G1_NUM_WHOLE_NUMBERS",
+        "grade": 1,
+        "strand": "Number",
+        "expectation_code": "B1.4",
+        "expectation_text": "Whole Numbers estimate the number of objects in collections of up to 50, and verify their estimates by counting",
+        "notes": "place value, comparing, operations, fractions"
+      },
+      {
+        "skill_id": "G1_NUM_WHOLE_NUMBERS",
+        "grade": 1,
+        "strand": "Number",
+        "expectation_code": "B1.5",
+        "expectation_text": "Whole Numbers count to 50 by 1s, 2s, 5s, and 10s, using a variety of tools and strategies",
+        "notes": "place value, comparing, operations, fractions"
+      },
+      {
+        "skill_id": "G1_NUM_FRACTIONS_DRAWINGS",
+        "grade": 1,
+        "strand": "Number",
+        "expectation_code": "B1.6",
+        "expectation_text": "Fractions use drawings to represent and solve fair-share problems that involve 2 and 4 sharers, respectively, and have remainders of 1 or 2",
+        "notes": "place value, comparing, operations, fractions"
+      },
+      {
+        "skill_id": "G1_NUM_FRACTIONS_RECOGNIZE",
+        "grade": 1,
+        "strand": "Number",
+        "expectation_code": "B1.7",
+        "expectation_text": "Fractions recognize that one half and two fourths of the same whole are equal, in fair-sharing contexts 117 118",
+        "notes": "place value, comparing, operations, fractions"
+      },
+      {
+        "skill_id": "G1_NUM_FRACTIONS_DRAWINGS",
+        "grade": 1,
+        "strand": "Number",
+        "expectation_code": "B1.8",
+        "expectation_text": "Fractions use drawings to compare and order unit fractions representing the individual portions that result when a whole is shared by different numbers of sharers, up to a maximum of 10",
+        "notes": "place value, comparing, operations, fractions"
+      },
+      {
+        "skill_id": "G1_NUM_PROPERTIES_RELATIONSHIPS",
+        "grade": 1,
+        "strand": "Number",
+        "expectation_code": "B2.1",
+        "expectation_text": "Properties and Relationships use the properties of addition and subtraction, and the relationship between addition and subtraction, to solve problems and check calculations",
+        "notes": "place value, comparing, operations, fractions"
+      },
+      {
+        "skill_id": "G1_NUM_MATH_FACTS",
+        "grade": 1,
+        "strand": "Number",
+        "expectation_code": "B2.2",
+        "expectation_text": "Math Facts recall and demonstrate addition facts for numbers up to 10, and related subtraction facts",
+        "notes": "place value, comparing, operations, fractions"
+      },
+      {
+        "skill_id": "G1_NUM_MENTAL_MATH",
+        "grade": 1,
+        "strand": "Number",
+        "expectation_code": "B2.3",
+        "expectation_text": "Mental Math use mental math strategies, including estimation, to add and subtract whole numbers that add up to no more than 20, and explain the strategies used",
+        "notes": "place value, comparing, operations, fractions"
+      },
+      {
+        "skill_id": "G1_NUM_ADDITION_SUBTRACTION",
+        "grade": 1,
+        "strand": "Number",
+        "expectation_code": "B2.4",
+        "expectation_text": "Addition and Subtraction use objects, diagrams, and equations to represent, describe, and solve situations involving addition and subtraction of whole numbers that add up to no more than 50",
+        "notes": "place value, comparing, operations, fractions"
+      },
+      {
+        "skill_id": "G1_NUM_MULTIPLICATION_DIVISION",
+        "grade": 1,
+        "strand": "Number",
+        "expectation_code": "B2.5",
+        "expectation_text": "Multiplication and Division represent and solve equal-group problems where the total number of items is no more than 10, including problems in which each group is a half, using tools and drawings",
+        "notes": "place value, comparing, operations, fractions"
+      }
+    ],
+    "Spatial Sense": [
+      {
+        "skill_id": "G1_SPAT_GEOMETRIC_REASONING",
+        "grade": 1,
+        "strand": "Spatial Sense",
+        "expectation_code": "E1.1",
+        "expectation_text": "Geometric Reasoning sort three-dimensional objects and two-dimensional shapes according to one attribute at a time, and identify the sorting rule being used",
+        "notes": "shapes, location, transformations; describe movement"
+      },
+      {
+        "skill_id": "G1_SPAT_GEOMETRIC_REASONING",
+        "grade": 1,
+        "strand": "Spatial Sense",
+        "expectation_code": "E1.2",
+        "expectation_text": "Geometric Reasoning construct three-dimensional objects, and identify two-dimensional shapes contained within structures and objects",
+        "notes": "shapes, location, transformations; describe movement"
+      },
+      {
+        "skill_id": "G1_SPAT_GEOMETRIC_REASONING",
+        "grade": 1,
+        "strand": "Spatial Sense",
+        "expectation_code": "E1.3",
+        "expectation_text": "Geometric Reasoning construct and describe two-dimensional shapes and three-dimensional objects that have matching halves",
+        "notes": "shapes, location, transformations; describe movement"
+      },
+      {
+        "skill_id": "G1_SPAT_LOCATION_MOVEMENT",
+        "grade": 1,
+        "strand": "Spatial Sense",
+        "expectation_code": "E1.4",
+        "expectation_text": "Location and Movement describe the relative locations of objects or people, using positional language",
+        "notes": "shapes, location, transformations; describe movement"
+      },
+      {
+        "skill_id": "G1_SPAT_LOCATION_MOVEMENT",
+        "grade": 1,
+        "strand": "Spatial Sense",
+        "expectation_code": "E1.5",
+        "expectation_text": "Location and Movement give and follow directions for moving from one location to another 137",
+        "notes": "shapes, location, transformations; describe movement"
+      },
+      {
+        "skill_id": "G1_SPAT_ATTRIBUTES_IDENTIFY",
+        "grade": 1,
+        "strand": "Spatial Sense",
+        "expectation_code": "E2.1",
+        "expectation_text": "Attributes identify measurable attributes of two-dimensional shapes and three-dimensional objects, including length, area, mass, capacity, and angle",
+        "notes": "length, area, volume, mass, time"
+      },
+      {
+        "skill_id": "G1_SPAT_ATTRIBUTES_COMPARE",
+        "grade": 1,
+        "strand": "Spatial Sense",
+        "expectation_code": "E2.2",
+        "expectation_text": "Attributes compare several everyday objects and order them according to length, area, mass, and capacity",
+        "notes": "length, area, volume, mass, time"
+      },
+      {
+        "skill_id": "G1_SPAT_TIME_READ",
+        "grade": 1,
+        "strand": "Spatial Sense",
+        "expectation_code": "E2.3",
+        "expectation_text": "Time read the date on a calendar, and use a calendar to identify days, weeks, months, holidays, and seasons",
+        "notes": "length, area, volume, mass, time"
+      }
+    ]
   },
-  "ALG_CREATE_EXPRESS": {
-    "strand": "Algebra",
-    "expectation_code": "C1.2",
-    "expectation_text": "Create algebraic expressions to generalize relationships from words, numbers, visuals",
-    "notes": "Translation between representations"
+  "2": {
+    "Algebra": [
+      {
+        "skill_id": "G2_ALG_PATTERNS_IDENTIFY",
+        "grade": 2,
+        "strand": "Algebra",
+        "expectation_code": "C1.1",
+        "expectation_text": "Patterns identify and describe a variety of patterns involving geometric designs, including patterns found in real-life contexts 156",
+        "notes": "identify patterns, rules, make predictions"
+      },
+      {
+        "skill_id": "G2_ALG_PATTERNS_CREATE",
+        "grade": 2,
+        "strand": "Algebra",
+        "expectation_code": "C1.2",
+        "expectation_text": "Patterns create and translate patterns using various representations, including shapes and numbers",
+        "notes": "identify patterns, rules, make predictions"
+      },
+      {
+        "skill_id": "G2_ALG_PATTERNS_DETERMINE",
+        "grade": 2,
+        "strand": "Algebra",
+        "expectation_code": "C1.3",
+        "expectation_text": "Patterns determine pattern rules and use them to extend patterns, make and justify predictions, and identify missing elements in patterns represented with shapes and numbers 157",
+        "notes": "identify patterns, rules, make predictions"
+      },
+      {
+        "skill_id": "G2_ALG_PATTERNS_CREATE",
+        "grade": 2,
+        "strand": "Algebra",
+        "expectation_code": "C1.4",
+        "expectation_text": "Patterns create and describe patterns to illustrate relationships among whole numbers up to 100",
+        "notes": "identify patterns, rules, make predictions"
+      },
+      {
+        "skill_id": "G2_ALG_VARIABLES_IDENTIFY",
+        "grade": 2,
+        "strand": "Algebra",
+        "expectation_code": "C2.1",
+        "expectation_text": "Variables identify when symbols are being used as variables, and describe how they are being used",
+        "notes": "equalities, inequalities, solve and balance"
+      },
+      {
+        "skill_id": "G2_ALG_EQUALITIES_INEQUALITIES",
+        "grade": 2,
+        "strand": "Algebra",
+        "expectation_code": "C2.2",
+        "expectation_text": "Equalities and Inequalities determine what needs to be added to or subtracted from addition and subtraction expressions to make them equivalent 159",
+        "notes": "equalities, inequalities, solve and balance"
+      },
+      {
+        "skill_id": "G2_ALG_EQUALITIES_INEQUALITIES",
+        "grade": 2,
+        "strand": "Algebra",
+        "expectation_code": "C2.3",
+        "expectation_text": "Equalities and Inequalities identify and use equivalent relationships for whole numbers up to 100, in various contexts",
+        "notes": "equalities, inequalities, solve and balance"
+      },
+      {
+        "skill_id": "G2_ALG_CODING_SKILLS",
+        "grade": 2,
+        "strand": "Algebra",
+        "expectation_code": "C3.1",
+        "expectation_text": "Coding Skills solve problems and create computational representations of mathematical situations by writing and executing code, including code that involves sequential and concurrent events",
+        "notes": "write algorithms, debug, predict outputs"
+      },
+      {
+        "skill_id": "G2_ALG_CODING_SKILLS",
+        "grade": 2,
+        "strand": "Algebra",
+        "expectation_code": "C3.2",
+        "expectation_text": "Coding Skills read and alter existing code, including code that involves sequential and concurrent events, and describe how changes to the code affect the outcomes 161",
+        "notes": "write algorithms, debug, predict outputs"
+      }
+    ],
+    "Data": [
+      {
+        "skill_id": "G2_DATA_DATA_COLLECTION",
+        "grade": 2,
+        "strand": "Data",
+        "expectation_code": "D1.1",
+        "expectation_text": "Data Collection and Organization sort sets of data about people or things according to two attributes, using tables and logic diagrams, including Venn and Carroll diagrams",
+        "notes": "collect, organize, display, interpret data"
+      },
+      {
+        "skill_id": "G2_DATA_DATA_COLLECTION",
+        "grade": 2,
+        "strand": "Data",
+        "expectation_code": "D1.2",
+        "expectation_text": "Data Collection and Organization collect data through observations, experiments, and interviews to answer questions of interest that focus on two pieces of information, and organize the data in two-way tally tables",
+        "notes": "collect, organize, display, interpret data"
+      },
+      {
+        "skill_id": "G2_DATA_DATA_VISUALIZATION",
+        "grade": 2,
+        "strand": "Data",
+        "expectation_code": "D1.3",
+        "expectation_text": "Data Visualization display sets of data, using one-to-one correspondence, in concrete graphs, pictographs, line plots, and bar graphs with proper sources, titles, and labels 164",
+        "notes": "collect, organize, display, interpret data"
+      },
+      {
+        "skill_id": "G2_DATA_DATA_ANALYSIS",
+        "grade": 2,
+        "strand": "Data",
+        "expectation_code": "D1.4",
+        "expectation_text": "Data Analysis identify the mode(s), if any, for various data sets presented in concrete graphs, pictographs, line plots, bar graphs, and tables, and explain what this measure indicates about the data",
+        "notes": "collect, organize, display, interpret data"
+      },
+      {
+        "skill_id": "G2_DATA_DATA_ANALYSIS",
+        "grade": 2,
+        "strand": "Data",
+        "expectation_code": "D1.5",
+        "expectation_text": "Data Analysis analyse different sets of data presented in various ways, including in logic diagrams, line plots, and bar graphs, by asking and answering questions about the data and drawing conclusions, then make convincing arguments and informed decisions",
+        "notes": "collect, organize, display, interpret data"
+      },
+      {
+        "skill_id": "G2_DATA_PROBABILITY_MATHEMATICAL",
+        "grade": 2,
+        "strand": "Data",
+        "expectation_code": "D2.1",
+        "expectation_text": "Probability use mathematical language, including the terms \u201cimpossible\u201d, \u201cpossible\u201d, and \u201ccertain\u201d, to describe the likelihood of complementary events happening, and use that likelihood to make predictions and informed decisions",
+        "notes": "describe likelihood; simple experimental probability"
+      },
+      {
+        "skill_id": "G2_DATA_PROBABILITY_MAKE",
+        "grade": 2,
+        "strand": "Data",
+        "expectation_code": "D2.2",
+        "expectation_text": "Probability make and test predictions about the likelihood that the mode(s) of a data set from one population will be the same for data collected from a different population",
+        "notes": "describe likelihood; simple experimental probability"
+      }
+    ],
+    "Financial Literacy": [
+      {
+        "skill_id": "G2_FIN_MONEY_CONCEPTS",
+        "grade": 2,
+        "strand": "Financial Literacy",
+        "expectation_code": "F1.1",
+        "expectation_text": "Money Concepts identify different ways of representing the same amount of money up to Canadian 200\u00a2 using various combinations of coins, and up to $200 using various combinations of $1 and $2 coins and $5, $10, $20, $50, and $100 bills 174",
+        "notes": "money, budgets, transactions, consumer decisions"
+      }
+    ],
+    "Number": [
+      {
+        "skill_id": "G2_NUM_WHOLE_NUMBERS",
+        "grade": 2,
+        "strand": "Number",
+        "expectation_code": "B1.1",
+        "expectation_text": "Whole Numbers read, represent, compose, and decompose whole numbers up to and including 200, using a variety of tools and strategies, and describe various ways they are used in everyday life",
+        "notes": "place value, comparing, operations, fractions"
+      },
+      {
+        "skill_id": "G2_NUM_WHOLE_NUMBERS",
+        "grade": 2,
+        "strand": "Number",
+        "expectation_code": "B1.2",
+        "expectation_text": "Whole Numbers compare and order whole numbers up to and including 200, in various contexts",
+        "notes": "place value, comparing, operations, fractions"
+      },
+      {
+        "skill_id": "G2_NUM_WHOLE_NUMBERS",
+        "grade": 2,
+        "strand": "Number",
+        "expectation_code": "B1.3",
+        "expectation_text": "Whole Numbers estimate the number of objects in collections of up to 200 and verify their estimates by counting",
+        "notes": "place value, comparing, operations, fractions"
+      },
+      {
+        "skill_id": "G2_NUM_WHOLE_NUMBERS",
+        "grade": 2,
+        "strand": "Number",
+        "expectation_code": "B1.4",
+        "expectation_text": "Whole Numbers count to 200, including by 20s, 25s, and 50s, using a variety of tools and strategies 146",
+        "notes": "place value, comparing, operations, fractions"
+      },
+      {
+        "skill_id": "G2_NUM_WHOLE_NUMBERS",
+        "grade": 2,
+        "strand": "Number",
+        "expectation_code": "B1.5",
+        "expectation_text": "Whole Numbers describe what makes a number even or odd 147",
+        "notes": "place value, comparing, operations, fractions"
+      },
+      {
+        "skill_id": "G2_NUM_FRACTIONS_DRAWINGS",
+        "grade": 2,
+        "strand": "Number",
+        "expectation_code": "B1.6",
+        "expectation_text": "Fractions use drawings to represent, solve, and compare the results of fair-share problems that involve sharing up to 10 items among 2, 3, 4, and 6 sharers, including problems that result in whole numbers, mixed numbers, and fractional amounts",
+        "notes": "place value, comparing, operations, fractions"
+      },
+      {
+        "skill_id": "G2_NUM_FRACTIONS_RECOGNIZE",
+        "grade": 2,
+        "strand": "Number",
+        "expectation_code": "B1.7",
+        "expectation_text": "Fractions recognize that one third and two sixths of the same whole are equal, in fair-sharing contexts",
+        "notes": "place value, comparing, operations, fractions"
+      },
+      {
+        "skill_id": "G2_NUM_PROPERTIES_RELATIONSHIPS",
+        "grade": 2,
+        "strand": "Number",
+        "expectation_code": "B2.1",
+        "expectation_text": "Properties and Relationships use the properties of addition and subtraction, and the relationships between addition and multiplication and between subtraction and division, to solve problems and check calculations",
+        "notes": "place value, comparing, operations, fractions"
+      },
+      {
+        "skill_id": "G2_NUM_MATH_FACTS",
+        "grade": 2,
+        "strand": "Number",
+        "expectation_code": "B2.2",
+        "expectation_text": "Math Facts recall and demonstrate addition facts for numbers up to 20, and related subtraction facts",
+        "notes": "place value, comparing, operations, fractions"
+      },
+      {
+        "skill_id": "G2_NUM_WHEN_LOOKING",
+        "grade": 2,
+        "strand": "Number",
+        "expectation_code": "B2.3",
+        "expectation_text": ") and when looking for ways to \u201cmake 10\u201d is useful.",
+        "notes": "place value, comparing, operations, fractions"
+      },
+      {
+        "skill_id": "G2_NUM_ADDITION_SUBTRACTION",
+        "grade": 2,
+        "strand": "Number",
+        "expectation_code": "B2.4",
+        "expectation_text": "Addition and Subtraction use objects, diagrams, and equations to represent, describe, and solve situations involving addition and subtraction of whole numbers that add up to no more than 100",
+        "notes": "place value, comparing, operations, fractions"
+      },
+      {
+        "skill_id": "G2_NUM_MULTIPLICATION_DIVISION",
+        "grade": 2,
+        "strand": "Number",
+        "expectation_code": "B2.5",
+        "expectation_text": "Multiplication and Division represent multiplication as repeated equal groups, including groups of one half and one fourth, and solve related problems, using various tools and drawings",
+        "notes": "place value, comparing, operations, fractions"
+      },
+      {
+        "skill_id": "G2_NUM_MULTIPLICATION_DIVISION",
+        "grade": 2,
+        "strand": "Number",
+        "expectation_code": "B2.6",
+        "expectation_text": "Multiplication and Division represent division of up to 12 items as the equal sharing of a quantity, and solve related problems, using various tools and drawings",
+        "notes": "place value, comparing, operations, fractions"
+      }
+    ],
+    "Spatial Sense": [
+      {
+        "skill_id": "G2_SPAT_GEOMETRIC_REASONING",
+        "grade": 2,
+        "strand": "Spatial Sense",
+        "expectation_code": "E1.1",
+        "expectation_text": "Geometric Reasoning sort and identify two-dimensional shapes by comparing number of sides, side lengths, angles, and number of lines of symmetry",
+        "notes": "shapes, location, transformations; describe movement"
+      },
+      {
+        "skill_id": "G2_SPAT_GEOMETRIC_REASONING",
+        "grade": 2,
+        "strand": "Spatial Sense",
+        "expectation_code": "E1.2",
+        "expectation_text": "Geometric Reasoning compose and decompose two-dimensional shapes, and show that the area of a shape remains constant regardless of how its parts are rearranged",
+        "notes": "shapes, location, transformations; describe movement"
+      },
+      {
+        "skill_id": "G2_SPAT_GEOMETRIC_REASONING",
+        "grade": 2,
+        "strand": "Spatial Sense",
+        "expectation_code": "E1.3",
+        "expectation_text": "Geometric Reasoning identify congruent lengths and angles in two-dimensional shapes by mentally and physically matching them, and determine if the shapes are congruent",
+        "notes": "shapes, location, transformations; describe movement"
+      },
+      {
+        "skill_id": "G2_SPAT_LOCATION_MOVEMENT",
+        "grade": 2,
+        "strand": "Spatial Sense",
+        "expectation_code": "E1.4",
+        "expectation_text": "Location and Movement create and interpret simple maps of familiar places",
+        "notes": "shapes, location, transformations; describe movement"
+      },
+      {
+        "skill_id": "G2_SPAT_LOCATION_MOVEMENT",
+        "grade": 2,
+        "strand": "Spatial Sense",
+        "expectation_code": "E1.5",
+        "expectation_text": "Location and Movement describe the relative positions of several objects and the movements needed to get from one object to another",
+        "notes": "shapes, location, transformations; describe movement"
+      },
+      {
+        "skill_id": "G2_SPAT_LENGTH_CHOOSE",
+        "grade": 2,
+        "strand": "Spatial Sense",
+        "expectation_code": "E2.1",
+        "expectation_text": "Length choose and use non-standard units appropriately to measure lengths, and describe the inverse relationship between the size of a unit and the number of units needed",
+        "notes": "length, area, volume, mass, time"
+      },
+      {
+        "skill_id": "G2_SPAT_LENGTH_EXPLAIN",
+        "grade": 2,
+        "strand": "Spatial Sense",
+        "expectation_code": "E2.2",
+        "expectation_text": "Length explain the relationship between centimetres and metres as units of length, and use benchmarks for these units to estimate lengths",
+        "notes": "length, area, volume, mass, time"
+      },
+      {
+        "skill_id": "G2_SPAT_LENGTH_MEASURE",
+        "grade": 2,
+        "strand": "Spatial Sense",
+        "expectation_code": "E2.3",
+        "expectation_text": "Length measure and draw lengths in centimetres and metres, using a measuring tool, and recognize the impact of starting at points other than zero",
+        "notes": "length, area, volume, mass, time"
+      },
+      {
+        "skill_id": "G2_SPAT_TIME_UNITS",
+        "grade": 2,
+        "strand": "Spatial Sense",
+        "expectation_code": "E2.4",
+        "expectation_text": "Time use units of time, including seconds, minutes, hours, and non-standard units, to describe the duration of various events 173",
+        "notes": "length, area, volume, mass, time"
+      }
+    ]
   },
-  "ALG_COMPARE_EXPRESS": {
-    "strand": "Algebra",
-    "expectation_code": "C1.3",
-    "expectation_text": "Compare algebraic expressions using multiple methods to identify equivalence",
-    "notes": "Concrete, numerical, graphical, symbolic"
+  "3": {
+    "Algebra": [
+      {
+        "skill_id": "G3_ALG_PATTERNS_IDENTIFY",
+        "grade": 3,
+        "strand": "Algebra",
+        "expectation_code": "C1.1",
+        "expectation_text": "Patterns identify and describe repeating elements and operations in a variety of patterns, including patterns found in real-life contexts",
+        "notes": "identify patterns, rules, make predictions"
+      },
+      {
+        "skill_id": "G3_ALG_PATTERNS_CREATE",
+        "grade": 3,
+        "strand": "Algebra",
+        "expectation_code": "C1.2",
+        "expectation_text": "Patterns create and translate patterns that have repeating elements, movements, or operations using various representations, including shapes, numbers, and tables of values",
+        "notes": "identify patterns, rules, make predictions"
+      },
+      {
+        "skill_id": "G3_ALG_PATTERNS_DETERMINE",
+        "grade": 3,
+        "strand": "Algebra",
+        "expectation_code": "C1.3",
+        "expectation_text": "Patterns determine pattern rules and use them to extend patterns, make and justify predictions, and identify missing elements in patterns that have repeating elements, movements, or operations",
+        "notes": "identify patterns, rules, make predictions"
+      },
+      {
+        "skill_id": "G3_ALG_PATTERNS_CREATE",
+        "grade": 3,
+        "strand": "Algebra",
+        "expectation_code": "C1.4",
+        "expectation_text": "Patterns create and describe patterns to illustrate relationships among whole numbers up to 1000",
+        "notes": "identify patterns, rules, make predictions"
+      },
+      {
+        "skill_id": "G3_ALG_VARIABLES_DESCRIBE",
+        "grade": 3,
+        "strand": "Algebra",
+        "expectation_code": "C2.1",
+        "expectation_text": "Variables describe how variables are used, and use them in various contexts as appropriate",
+        "notes": "equalities, inequalities, solve and balance"
+      },
+      {
+        "skill_id": "G3_ALG_EQUALITIES_INEQUALITIES",
+        "grade": 3,
+        "strand": "Algebra",
+        "expectation_code": "C2.2",
+        "expectation_text": "Equalities and Inequalities determine whether given sets of addition, subtraction, multiplication, and division expressions are equivalent or not",
+        "notes": "equalities, inequalities, solve and balance"
+      },
+      {
+        "skill_id": "G3_ALG_EQUALITIES_INEQUALITIES",
+        "grade": 3,
+        "strand": "Algebra",
+        "expectation_code": "C2.3",
+        "expectation_text": "Equalities and Inequalities identify and use equivalent relationships for whole numbers up to 1000, in various contexts",
+        "notes": "equalities, inequalities, solve and balance"
+      },
+      {
+        "skill_id": "G3_ALG_CODING_SKILLS",
+        "grade": 3,
+        "strand": "Algebra",
+        "expectation_code": "C3.1",
+        "expectation_text": "Coding Skills solve problems and create computational representations of mathematical situations by writing and executing code, including code that involves sequential, concurrent, and repeating events",
+        "notes": "write algorithms, debug, predict outputs"
+      },
+      {
+        "skill_id": "G3_ALG_CODING_SKILLS",
+        "grade": 3,
+        "strand": "Algebra",
+        "expectation_code": "C3.2",
+        "expectation_text": "Coding Skills read and alter existing code, including code that involves sequential, concurrent, and repeating events, and describe how changes to the code affect the outcomes",
+        "notes": "write algorithms, debug, predict outputs"
+      }
+    ],
+    "Data": [
+      {
+        "skill_id": "G3_DATA_DATA_COLLECTION",
+        "grade": 3,
+        "strand": "Data",
+        "expectation_code": "D1.1",
+        "expectation_text": "Data Collection and Organization sort sets of data about people or things according to two and three attributes, using tables and logic diagrams, including Venn, Carroll, and tree diagrams, as appropriate 202",
+        "notes": "collect, organize, display, interpret data"
+      },
+      {
+        "skill_id": "G3_DATA_DATA_COLLECTION",
+        "grade": 3,
+        "strand": "Data",
+        "expectation_code": "D1.2",
+        "expectation_text": "Data Collection and Organization collect data through observations, experiments, and interviews to answer questions of interest that focus on qualitative and quantitative data, and organize the data using frequency tables",
+        "notes": "collect, organize, display, interpret data"
+      },
+      {
+        "skill_id": "G3_DATA_DATA_VISUALIZATION",
+        "grade": 3,
+        "strand": "Data",
+        "expectation_code": "D1.3",
+        "expectation_text": "Data Visualization display sets of data, using many-to-one correspondence, in pictographs and bar graphs with proper sources, titles, and labels, and appropriate scales",
+        "notes": "collect, organize, display, interpret data"
+      },
+      {
+        "skill_id": "G3_DATA_DATA_ANALYSIS",
+        "grade": 3,
+        "strand": "Data",
+        "expectation_code": "D1.4",
+        "expectation_text": "Data Analysis determine the mean and identify the mode(s), if any, for various data sets involving whole numbers, and explain what each of these measures indicates about the data",
+        "notes": "collect, organize, display, interpret data"
+      },
+      {
+        "skill_id": "G3_DATA_DATA_ANALYSIS",
+        "grade": 3,
+        "strand": "Data",
+        "expectation_code": "D1.5",
+        "expectation_text": "Data Analysis analyse different sets of data presented in various ways, including in frequency tables and in graphs with different scales, by asking and answering questions about the data and drawing conclusions, then make convincing arguments and informed decisions",
+        "notes": "collect, organize, display, interpret data"
+      },
+      {
+        "skill_id": "G3_DATA_PROBABILITY_MATHEMATICAL",
+        "grade": 3,
+        "strand": "Data",
+        "expectation_code": "D2.1",
+        "expectation_text": "Probability use mathematical language, including the terms \u201cimpossible\u201d, \u201cunlikely\u201d, \u201cequally likely\u201d, \u201clikely\u201d, and \u201ccertain\u201d, to describe the likelihood of events happening, and use that likelihood to make predictions and informed decisions 206",
+        "notes": "describe likelihood; simple experimental probability"
+      },
+      {
+        "skill_id": "G3_DATA_PROBABILITY_MAKE",
+        "grade": 3,
+        "strand": "Data",
+        "expectation_code": "D2.2",
+        "expectation_text": "Probability make and test predictions about the likelihood that the mean and the mode(s) of a data set will be the same for data collected from different populations",
+        "notes": "describe likelihood; simple experimental probability"
+      }
+    ],
+    "Financial Literacy": [
+      {
+        "skill_id": "G3_FIN_MONEY_CONCEPTS",
+        "grade": 3,
+        "strand": "Financial Literacy",
+        "expectation_code": "F1.1",
+        "expectation_text": "Money Concepts estimate and calculate the change required for various simple cash transactions involving whole-dollar amounts and amounts of less than one dollar",
+        "notes": "money, budgets, transactions, consumer decisions"
+      }
+    ],
+    "Number": [
+      {
+        "skill_id": "G3_NUM_WHOLE_NUMBERS",
+        "grade": 3,
+        "strand": "Number",
+        "expectation_code": "B1.1",
+        "expectation_text": "Whole Numbers read, represent, compose, and decompose whole numbers up to and including 1000, using a variety of tools and strategies, and describe various ways they are used in everyday life",
+        "notes": "place value, comparing, operations, fractions"
+      },
+      {
+        "skill_id": "G3_NUM_WHOLE_NUMBERS",
+        "grade": 3,
+        "strand": "Number",
+        "expectation_code": "B1.2",
+        "expectation_text": "Whole Numbers compare and order whole numbers up to and including 1000, in various contexts",
+        "notes": "place value, comparing, operations, fractions"
+      },
+      {
+        "skill_id": "G3_NUM_WHOLE_NUMBERS",
+        "grade": 3,
+        "strand": "Number",
+        "expectation_code": "B1.3",
+        "expectation_text": "Whole Numbers round whole numbers to the nearest ten or hundred, in various contexts",
+        "notes": "place value, comparing, operations, fractions"
+      },
+      {
+        "skill_id": "G3_NUM_WHOLE_NUMBERS",
+        "grade": 3,
+        "strand": "Number",
+        "expectation_code": "B1.4",
+        "expectation_text": "Whole Numbers count to 1000, including by 50s, 100s, and 200s, using a variety of tools and strategies 181",
+        "notes": "place value, comparing, operations, fractions"
+      },
+      {
+        "skill_id": "G3_NUM_EXAMPLE_IF",
+        "grade": 3,
+        "strand": "Number",
+        "expectation_code": "B1.5",
+        "expectation_text": "). For example, if adding 26 + 32 from left to right, talk about adding 20 and 30, then 6 and 2).",
+        "notes": "place value, comparing, operations, fractions"
+      },
+      {
+        "skill_id": "G3_NUM_FRACTIONS_DRAWINGS",
+        "grade": 3,
+        "strand": "Number",
+        "expectation_code": "B1.6",
+        "expectation_text": "Fractions use drawings to represent, solve, and compare the results of fair-share problems that involve sharing up to 20 items among 2, 3, 4, 5, 6, 8, and 10 sharers, including problems that result in whole numbers, mixed numbers, and fractional amounts",
+        "notes": "place value, comparing, operations, fractions"
+      },
+      {
+        "skill_id": "G3_NUM_FRACTIONS_REPRESENT",
+        "grade": 3,
+        "strand": "Number",
+        "expectation_code": "B1.7",
+        "expectation_text": "Fractions represent and solve fair-share problems that focus on determining and using equivalent fractions, including problems that involve halves, fourths, and eighths; thirds and sixths; and fifths and tenths",
+        "notes": "place value, comparing, operations, fractions"
+      },
+      {
+        "skill_id": "G3_NUM_PROPERTIES_RELATIONSHIPS",
+        "grade": 3,
+        "strand": "Number",
+        "expectation_code": "B2.1",
+        "expectation_text": "Properties and Relationships use the properties of operations, and the relationships between multiplication and division, to solve problems and check calculations",
+        "notes": "place value, comparing, operations, fractions"
+      },
+      {
+        "skill_id": "G3_NUM_MATH_FACTS",
+        "grade": 3,
+        "strand": "Number",
+        "expectation_code": "B2.2",
+        "expectation_text": "Math Facts recall and demonstrate multiplication facts of 2, 5, and 10, and related division facts",
+        "notes": "place value, comparing, operations, fractions"
+      },
+      {
+        "skill_id": "G3_NUM_MENTAL_MATH",
+        "grade": 3,
+        "strand": "Number",
+        "expectation_code": "B2.3",
+        "expectation_text": "Mental Math use mental math strategies, including estimation, to add and subtract whole numbers that add up to no more than 1000, and explain the strategies used",
+        "notes": "place value, comparing, operations, fractions"
+      },
+      {
+        "skill_id": "G3_NUM_ADDITION_SUBTRACTION",
+        "grade": 3,
+        "strand": "Number",
+        "expectation_code": "B2.4",
+        "expectation_text": "Addition and Subtraction demonstrate an understanding of algorithms for adding and subtracting whole numbers by making connections to and describing the way other tools and strategies are used to add and subtract",
+        "notes": "place value, comparing, operations, fractions"
+      },
+      {
+        "skill_id": "G3_NUM_ADDITION_SUBTRACTION",
+        "grade": 3,
+        "strand": "Number",
+        "expectation_code": "B2.5",
+        "expectation_text": "Addition and Subtraction represent and solve problems involving the addition and subtraction of whole numbers that add up to no more than 1000, using various tools and algorithms",
+        "notes": "place value, comparing, operations, fractions"
+      },
+      {
+        "skill_id": "G3_NUM_MULTIPLICATION_DIVISION",
+        "grade": 3,
+        "strand": "Number",
+        "expectation_code": "B2.6",
+        "expectation_text": "Multiplication and Division represent multiplication of numbers up to 10 \u00d7 10 and division up to 100 \u00f7 10, using a variety of tools and drawings, including arrays",
+        "notes": "place value, comparing, operations, fractions"
+      },
+      {
+        "skill_id": "G3_NUM_MULTIPLICATION_DIVISION",
+        "grade": 3,
+        "strand": "Number",
+        "expectation_code": "B2.7",
+        "expectation_text": "Multiplication and Division represent and solve problems involving multiplication and division, including problems that involve groups of one half, one fourth, and one third, using tools and drawings",
+        "notes": "place value, comparing, operations, fractions"
+      },
+      {
+        "skill_id": "G3_NUM_MULTIPLICATION_DIVISION",
+        "grade": 3,
+        "strand": "Number",
+        "expectation_code": "B2.8",
+        "expectation_text": "Multiplication and Division represent the connection between the numerator of a fraction and the repeated addition of the unit fraction with the same denominator using various tools and drawings, and standard fractional notation",
+        "notes": "place value, comparing, operations, fractions"
+      },
+      {
+        "skill_id": "G3_NUM_MULTIPLICATION_DIVISION",
+        "grade": 3,
+        "strand": "Number",
+        "expectation_code": "B2.9",
+        "expectation_text": "Multiplication and Division use the ratios of 1 to 2, 1 to 5, and 1 to 10 to scale up numbers and to solve problems",
+        "notes": "place value, comparing, operations, fractions"
+      }
+    ],
+    "Spatial Sense": [
+      {
+        "skill_id": "G3_SPAT_GEOMETRIC_REASONING",
+        "grade": 3,
+        "strand": "Spatial Sense",
+        "expectation_code": "E1.1",
+        "expectation_text": "Geometric Reasoning sort, construct, and identify cubes, prisms, pyramids, cylinders, and cones by comparing their faces, edges, vertices, and angles",
+        "notes": "shapes, location, transformations; describe movement"
+      },
+      {
+        "skill_id": "G3_SPAT_GEOMETRIC_REASONING",
+        "grade": 3,
+        "strand": "Spatial Sense",
+        "expectation_code": "E1.2",
+        "expectation_text": "Geometric Reasoning compose and decompose various structures, and identify the two-dimensional shapes and three-dimensional objects that these structures contain",
+        "notes": "shapes, location, transformations; describe movement"
+      },
+      {
+        "skill_id": "G3_SPAT_GEOMETRIC_REASONING",
+        "grade": 3,
+        "strand": "Spatial Sense",
+        "expectation_code": "E1.3",
+        "expectation_text": "Geometric Reasoning identify congruent lengths, angles, and faces of three-dimensional objects by mentally and physically matching them, and determine if the objects are congruent",
+        "notes": "shapes, location, transformations; describe movement"
+      },
+      {
+        "skill_id": "G3_SPAT_LOCATION_MOVEMENT",
+        "grade": 3,
+        "strand": "Spatial Sense",
+        "expectation_code": "E1.4",
+        "expectation_text": "Location and Movement give and follow multistep instructions involving movement from one location to another, including distances and half- and quarter-turns 211",
+        "notes": "shapes, location, transformations; describe movement"
+      },
+      {
+        "skill_id": "G3_SPAT_LENGTH_MASS",
+        "grade": 3,
+        "strand": "Spatial Sense",
+        "expectation_code": "E2.1",
+        "expectation_text": "Length, Mass, and Capacity use appropriate units of length to estimate, measure, and compare the perimeters of polygons and curved shapes, and construct polygons with a given perimeter",
+        "notes": "length, area, volume, mass, time"
+      },
+      {
+        "skill_id": "G3_SPAT_LENGTH_MASS",
+        "grade": 3,
+        "strand": "Spatial Sense",
+        "expectation_code": "E2.2",
+        "expectation_text": "Length, Mass, and Capacity explain the relationships between millimetres, centimetres, metres, and kilometres as metric units of length, and use benchmarks for these units to estimate lengths",
+        "notes": "length, area, volume, mass, time"
+      },
+      {
+        "skill_id": "G3_SPAT_LENGTH_MASS",
+        "grade": 3,
+        "strand": "Spatial Sense",
+        "expectation_code": "E2.3",
+        "expectation_text": "Length, Mass, and Capacity use non-standard units appropriately to estimate, measure, and compare capacity, and explain the effect that overfilling or underfilling, and gaps between units, have on accuracy",
+        "notes": "length, area, volume, mass, time"
+      },
+      {
+        "skill_id": "G3_SPAT_LENGTH_MASS",
+        "grade": 3,
+        "strand": "Spatial Sense",
+        "expectation_code": "E2.4",
+        "expectation_text": "Length, Mass, and Capacity compare, estimate, and measure the mass of various objects, using a pan balance and non- standard units",
+        "notes": "length, area, volume, mass, time"
+      },
+      {
+        "skill_id": "G3_SPAT_LENGTH_MASS",
+        "grade": 3,
+        "strand": "Spatial Sense",
+        "expectation_code": "E2.5",
+        "expectation_text": "Length, Mass, and Capacity use various units of different sizes to measure the same attribute of a given item, and demonstrate that even though using different-sized units produces a different count, the size of the attribute remains the same",
+        "notes": "length, area, volume, mass, time"
+      },
+      {
+        "skill_id": "G3_SPAT_TIME_ANALOG",
+        "grade": 3,
+        "strand": "Spatial Sense",
+        "expectation_code": "E2.6",
+        "expectation_text": "Time use analog and digital clocks and timers to tell time in hours, minutes, and seconds",
+        "notes": "length, area, volume, mass, time"
+      },
+      {
+        "skill_id": "G3_SPAT_AREA_COMPARE",
+        "grade": 3,
+        "strand": "Spatial Sense",
+        "expectation_code": "E2.7",
+        "expectation_text": "Area compare the areas of two-dimensional shapes by matching, covering, or decomposing and recomposing the shapes, and demonstrate that different shapes can have the same area",
+        "notes": "length, area, volume, mass, time"
+      },
+      {
+        "skill_id": "G3_SPAT_AREA_APPROPRIATE",
+        "grade": 3,
+        "strand": "Spatial Sense",
+        "expectation_code": "E2.8",
+        "expectation_text": "Area use appropriate non-standard units to measure area, and explain the effect that gaps and overlaps have on accuracy",
+        "notes": "length, area, volume, mass, time"
+      },
+      {
+        "skill_id": "G3_SPAT_AREA_SQUARE",
+        "grade": 3,
+        "strand": "Spatial Sense",
+        "expectation_code": "E2.9",
+        "expectation_text": "Area use square centimetres (cm2) and square metres (m2) to estimate, measure, and compare the areas of various two-dimensional shapes, including those with curved sides",
+        "notes": "length, area, volume, mass, time"
+      }
+    ]
   },
-  "ALG_SIMPLIFY_EXPRESS": {
-    "strand": "Algebra",
-    "expectation_code": "C1.4",
-    "expectation_text": "Simplify algebraic expressions by applying properties of operations",
-    "notes": "Uses various tools and contexts"
+  "4": {
+    "Algebra": [
+      {
+        "skill_id": "G4_ALG_PATTERNS_IDENTIFY",
+        "grade": 4,
+        "strand": "Algebra",
+        "expectation_code": "C1.1",
+        "expectation_text": "Patterns identify and describe repeating and growing patterns, including patterns found in real-life contexts",
+        "notes": "identify patterns, rules, make predictions"
+      },
+      {
+        "skill_id": "G4_ALG_PATTERNS_CREATE",
+        "grade": 4,
+        "strand": "Algebra",
+        "expectation_code": "C1.2",
+        "expectation_text": "Patterns create and translate repeating and growing patterns using various representations, including tables of values and graphs",
+        "notes": "identify patterns, rules, make predictions"
+      },
+      {
+        "skill_id": "G4_ALG_PATTERNS_DETERMINE",
+        "grade": 4,
+        "strand": "Algebra",
+        "expectation_code": "C1.3",
+        "expectation_text": "Patterns determine pattern rules and use them to extend patterns, make and justify predictions, and identify missing elements in repeating and growing patterns",
+        "notes": "identify patterns, rules, make predictions"
+      },
+      {
+        "skill_id": "G4_ALG_PATTERNS_CREATE",
+        "grade": 4,
+        "strand": "Algebra",
+        "expectation_code": "C1.4",
+        "expectation_text": "Patterns create and describe patterns to illustrate relationships among whole numbers and decimal tenths",
+        "notes": "identify patterns, rules, make predictions"
+      },
+      {
+        "skill_id": "G4_ALG_VARIABLES_IDENTIFY",
+        "grade": 4,
+        "strand": "Algebra",
+        "expectation_code": "C2.1",
+        "expectation_text": "Variables identify and use symbols as variables in expressions and equations",
+        "notes": "equalities, inequalities, solve and balance"
+      },
+      {
+        "skill_id": "G4_ALG_EQUALITIES_INEQUALITIES",
+        "grade": 4,
+        "strand": "Algebra",
+        "expectation_code": "C2.2",
+        "expectation_text": "Equalities and Inequalities solve equations that involve whole numbers up to 50 in various contexts, and verify solutions 247",
+        "notes": "equalities, inequalities, solve and balance"
+      },
+      {
+        "skill_id": "G4_ALG_EQUALITIES_INEQUALITIES",
+        "grade": 4,
+        "strand": "Algebra",
+        "expectation_code": "C2.3",
+        "expectation_text": "Equalities and Inequalities solve inequalities that involve addition and subtraction of whole numbers up to 20, and verify and graph the solutions",
+        "notes": "equalities, inequalities, solve and balance"
+      },
+      {
+        "skill_id": "G4_ALG_CODING_SKILLS",
+        "grade": 4,
+        "strand": "Algebra",
+        "expectation_code": "C3.1",
+        "expectation_text": "Coding Skills solve problems and create computational representations of mathematical situations by writing and executing code, including code that involves sequential, concurrent, repeating, and nested events",
+        "notes": "write algorithms, debug, predict outputs"
+      },
+      {
+        "skill_id": "G4_ALG_CODING_SKILLS",
+        "grade": 4,
+        "strand": "Algebra",
+        "expectation_code": "C3.2",
+        "expectation_text": "Coding Skills read and alter existing code, including code that involves sequential, concurrent, repeating, and nested events, and describe how changes to the code affect the outcomes 249",
+        "notes": "write algorithms, debug, predict outputs"
+      }
+    ],
+    "Data": [
+      {
+        "skill_id": "G4_DATA_DATA_COLLECTION",
+        "grade": 4,
+        "strand": "Data",
+        "expectation_code": "D1.1",
+        "expectation_text": "Data Collection and Organization describe the difference between qualitative and quantitative data, and describe situations where each would be used",
+        "notes": "collect, organize, display, interpret data"
+      },
+      {
+        "skill_id": "G4_DATA_DATA_COLLECTION",
+        "grade": 4,
+        "strand": "Data",
+        "expectation_code": "D1.2",
+        "expectation_text": "Data Collection and Organization collect data from different primary and secondary sources to answer questions of interest that involve comparing two or more sets of data, and organize the data in frequency tables and stem-and-leaf plots",
+        "notes": "collect, organize, display, interpret data"
+      },
+      {
+        "skill_id": "G4_DATA_DATA_VISUALIZATION",
+        "grade": 4,
+        "strand": "Data",
+        "expectation_code": "D1.3",
+        "expectation_text": "Data Visualization select from among a variety of graphs, including multiple-bar graphs, the type of graph best suited to represent various sets of data; display the data in the graphs with proper sources, titles, and labels, and appropriate scales; and justify their choice of graphs",
+        "notes": "collect, organize, display, interpret data"
+      },
+      {
+        "skill_id": "G4_DATA_DATA_VISUALIZATION",
+        "grade": 4,
+        "strand": "Data",
+        "expectation_code": "D1.4",
+        "expectation_text": "Data Visualization create an infographic about a data set, representing the data in appropriate ways, including in frequency tables, stem-and-leaf plots, and multiple-bar graphs, and incorporating any other relevant information that helps to tell a story about the data 253",
+        "notes": "collect, organize, display, interpret data"
+      },
+      {
+        "skill_id": "G4_DATA_DATA_ANALYSIS",
+        "grade": 4,
+        "strand": "Data",
+        "expectation_code": "D1.5",
+        "expectation_text": "Data Analysis determine the mean and the median and identify the mode(s), if any, for various data sets involving whole numbers, and explain what each of these measures indicates about the data",
+        "notes": "collect, organize, display, interpret data"
+      },
+      {
+        "skill_id": "G4_DATA_DATA_ANALYSIS",
+        "grade": 4,
+        "strand": "Data",
+        "expectation_code": "D1.6",
+        "expectation_text": "Data Analysis analyse different sets of data presented in various ways, including in stem-and-leaf plots and multiple-bar graphs, by asking and answering questions about the data and drawing conclusions, then make convincing arguments and informed decisions",
+        "notes": "collect, organize, display, interpret data"
+      },
+      {
+        "skill_id": "G4_DATA_PROBABILITY_MATHEMATICAL",
+        "grade": 4,
+        "strand": "Data",
+        "expectation_code": "D2.1",
+        "expectation_text": "Probability use mathematical language, including the terms \u201cimpossible\u201d, \u201cunlikely\u201d, \u201cequally likely\u201d, \u201clikely\u201d, and \u201ccertain\u201d, to describe the likelihood of events happening, represent this likelihood on a probability line, and use it to make predictions and informed decisions",
+        "notes": "describe likelihood; simple experimental probability"
+      },
+      {
+        "skill_id": "G4_DATA_PROBABILITY_MAKE",
+        "grade": 4,
+        "strand": "Data",
+        "expectation_code": "D2.2",
+        "expectation_text": "Probability make and test predictions about the likelihood that the mean, median, and mode(s) of a data set will be the same for data collected from different populations",
+        "notes": "describe likelihood; simple experimental probability"
+      }
+    ],
+    "Financial Literacy": [
+      {
+        "skill_id": "G4_FIN_MONEY_CONCEPTS",
+        "grade": 4,
+        "strand": "Financial Literacy",
+        "expectation_code": "F1.1",
+        "expectation_text": "Money Concepts identify various methods of payment that can be used to purchase goods and services 264",
+        "notes": "money, budgets, transactions, consumer decisions"
+      },
+      {
+        "skill_id": "G4_FIN_MONEY_CONCEPTS",
+        "grade": 4,
+        "strand": "Financial Literacy",
+        "expectation_code": "F1.2",
+        "expectation_text": "Money Concepts estimate and calculate the cost of transactions involving multiple items priced in whole-dollar amounts, not including sales tax, and the amount of change needed when payment is made in cash, using mental math",
+        "notes": "money, budgets, transactions, consumer decisions"
+      },
+      {
+        "skill_id": "G4_FIN_FINANCIAL_MANAGEMENT",
+        "grade": 4,
+        "strand": "Financial Literacy",
+        "expectation_code": "F1.3",
+        "expectation_text": "Financial Management explain the concepts of spending, saving, earning, investing, and donating, and identify key factors to consider when making basic decisions related to each",
+        "notes": "money, budgets, transactions, consumer decisions"
+      },
+      {
+        "skill_id": "G4_FIN_FINANCIAL_MANAGEMENT",
+        "grade": 4,
+        "strand": "Financial Literacy",
+        "expectation_code": "F1.4",
+        "expectation_text": "Financial Management explain the relationship between spending and saving, and describe how spending and saving behaviours may differ from one person to another",
+        "notes": "money, budgets, transactions, consumer decisions"
+      },
+      {
+        "skill_id": "G4_FIN_CONSUMER_CIVIC",
+        "grade": 4,
+        "strand": "Financial Literacy",
+        "expectation_code": "F1.5",
+        "expectation_text": "Consumer and Civic Awareness describe some ways of determining whether something is reasonably priced and therefore a good purchase",
+        "notes": "money, budgets, transactions, consumer decisions"
+      }
+    ],
+    "Number": [
+      {
+        "skill_id": "G4_NUM_WHOLE_NUMBERS",
+        "grade": 4,
+        "strand": "Number",
+        "expectation_code": "B1.1",
+        "expectation_text": "Whole Numbers read, represent, compose, and decompose whole numbers up to and including 10 000, using appropriate tools and strategies, and describe various ways they are used in everyday life",
+        "notes": "place value, comparing, operations, fractions"
+      },
+      {
+        "skill_id": "G4_NUM_WHOLE_NUMBERS",
+        "grade": 4,
+        "strand": "Number",
+        "expectation_code": "B1.2",
+        "expectation_text": "Whole Numbers compare and order whole numbers up to and including 10 000, in various contexts",
+        "notes": "place value, comparing, operations, fractions"
+      },
+      {
+        "skill_id": "G4_NUM_WHOLE_NUMBERS",
+        "grade": 4,
+        "strand": "Number",
+        "expectation_code": "B1.3",
+        "expectation_text": "Whole Numbers round whole numbers to the nearest ten, hundred, or thousand, in various contexts",
+        "notes": "place value, comparing, operations, fractions"
+      },
+      {
+        "skill_id": "G4_NUM_FRACTIONS_DECIMALS",
+        "grade": 4,
+        "strand": "Number",
+        "expectation_code": "B1.4",
+        "expectation_text": "Fractions and Decimals represent fractions from halves to tenths using drawings, tools, and standard fractional notation, and explain the meanings of the denominator and the numerator",
+        "notes": "place value, comparing, operations, fractions"
+      },
+      {
+        "skill_id": "G4_NUM_FRACTIONS_DECIMALS",
+        "grade": 4,
+        "strand": "Number",
+        "expectation_code": "B1.5",
+        "expectation_text": "Fractions and Decimals use drawings and models to represent, compare, and order fractions representing the individual portions that result from two different fair-share scenarios involving any combination of 2, 3, 4, 5, 6, 8, and 10 sharers",
+        "notes": "place value, comparing, operations, fractions"
+      },
+      {
+        "skill_id": "G4_NUM_FRACTIONS_DECIMALS",
+        "grade": 4,
+        "strand": "Number",
+        "expectation_code": "B1.6",
+        "expectation_text": "Fractions and Decimals count to 10 by halves, thirds, fourths, fifths, sixths, eighths, and tenths, with and without the use of tools",
+        "notes": "place value, comparing, operations, fractions"
+      },
+      {
+        "skill_id": "G4_NUM_FRACTIONS_DECIMALS",
+        "grade": 4,
+        "strand": "Number",
+        "expectation_code": "B1.7",
+        "expectation_text": "Fractions and Decimals read, represent, compare, and order decimal tenths, in various contexts",
+        "notes": "place value, comparing, operations, fractions"
+      },
+      {
+        "skill_id": "G4_NUM_FRACTIONS_DECIMALS",
+        "grade": 4,
+        "strand": "Number",
+        "expectation_code": "B1.8",
+        "expectation_text": "Fractions and Decimals round decimal numbers to the nearest whole number, in various contexts",
+        "notes": "place value, comparing, operations, fractions"
+      },
+      {
+        "skill_id": "G4_NUM_FRACTIONS_DECIMALS",
+        "grade": 4,
+        "strand": "Number",
+        "expectation_code": "B1.9",
+        "expectation_text": "Fractions and Decimals describe relationships and show equivalences among fractions and decimal tenths, in various contexts 232",
+        "notes": "place value, comparing, operations, fractions"
+      },
+      {
+        "skill_id": "G4_NUM_PROPERTIES_RELATIONSHIPS",
+        "grade": 4,
+        "strand": "Number",
+        "expectation_code": "B2.1",
+        "expectation_text": "Properties and Relationships use the properties of operations, and the relationships between addition, subtraction, multiplication, and division, to solve problems involving whole numbers, including those requiring more than one operation, and check calculations",
+        "notes": "place value, comparing, operations, fractions"
+      },
+      {
+        "skill_id": "G4_NUM_MATH_FACTS",
+        "grade": 4,
+        "strand": "Number",
+        "expectation_code": "B2.2",
+        "expectation_text": "Math Facts recall and demonstrate multiplication facts for 1 \u00d7 1 to 10 \u00d7 10, and related division facts 234",
+        "notes": "place value, comparing, operations, fractions"
+      },
+      {
+        "skill_id": "G4_NUM_MENTAL_MATH",
+        "grade": 4,
+        "strand": "Number",
+        "expectation_code": "B2.3",
+        "expectation_text": "Mental Math use mental math strategies to multiply whole numbers by 10, 100, and 1000, divide whole numbers by 10, and add and subtract decimal tenths, and explain the strategies used",
+        "notes": "place value, comparing, operations, fractions"
+      },
+      {
+        "skill_id": "G4_NUM_ADDITION_SUBTRACTION",
+        "grade": 4,
+        "strand": "Number",
+        "expectation_code": "B2.4",
+        "expectation_text": "Addition and Subtraction represent and solve problems involving the addition and subtraction of whole numbers that add up to no more than 10 000 and of decimal tenths, using appropriate tools and strategies, including algorithms",
+        "notes": "place value, comparing, operations, fractions"
+      },
+      {
+        "skill_id": "G4_NUM_MULTIPLICATION_DIVISION",
+        "grade": 4,
+        "strand": "Number",
+        "expectation_code": "B2.5",
+        "expectation_text": "Multiplication and Division represent and solve problems involving the multiplication of two- or three-digit whole numbers by one-digit whole numbers and by 10, 100, and 1000, using appropriate tools, including arrays",
+        "notes": "place value, comparing, operations, fractions"
+      },
+      {
+        "skill_id": "G4_NUM_MULTIPLICATION_DIVISION",
+        "grade": 4,
+        "strand": "Number",
+        "expectation_code": "B2.6",
+        "expectation_text": "Multiplication and Division represent and solve problems involving the division of two- or three-digit whole numbers by one-digit whole numbers, expressing any remainder as a fraction when appropriate, using appropriate tools, including arrays",
+        "notes": "place value, comparing, operations, fractions"
+      },
+      {
+        "skill_id": "G4_NUM_MULTIPLICATION_DIVISION",
+        "grade": 4,
+        "strand": "Number",
+        "expectation_code": "B2.7",
+        "expectation_text": "Multiplication and Division represent the relationship between the repeated addition of a unit fraction and the multiplication of that unit fraction by a whole number, using tools, drawings, and standard fractional notation",
+        "notes": "place value, comparing, operations, fractions"
+      },
+      {
+        "skill_id": "G4_NUM_MULTIPLICATION_DIVISION",
+        "grade": 4,
+        "strand": "Number",
+        "expectation_code": "B2.8",
+        "expectation_text": "Multiplication and Division show simple multiplicative relationships involving whole-number rates, using various tools and drawings",
+        "notes": "place value, comparing, operations, fractions"
+      }
+    ],
+    "Spatial Sense": [
+      {
+        "skill_id": "G4_SPAT_GEOMETRIC_REASONING",
+        "grade": 4,
+        "strand": "Spatial Sense",
+        "expectation_code": "E1.1",
+        "expectation_text": "Geometric Reasoning identify geometric properties of rectangles, including the number of right angles, parallel and perpendicular sides, and lines of symmetry",
+        "notes": "shapes, location, transformations; describe movement"
+      },
+      {
+        "skill_id": "G4_SPAT_LOCATION_MOVEMENT",
+        "grade": 4,
+        "strand": "Spatial Sense",
+        "expectation_code": "E1.2",
+        "expectation_text": "Location and Movement plot and read coordinates in the first quadrant of a Cartesian plane, and describe the translations that move a point from one coordinate to another",
+        "notes": "shapes, location, transformations; describe movement"
+      },
+      {
+        "skill_id": "G4_SPAT_LOCATION_MOVEMENT",
+        "grade": 4,
+        "strand": "Spatial Sense",
+        "expectation_code": "E1.3",
+        "expectation_text": "Location and Movement describe and perform translations and reflections on a grid, and predict the results of these transformations",
+        "notes": "shapes, location, transformations; describe movement"
+      },
+      {
+        "skill_id": "G4_SPAT_METRIC_SYSTEM",
+        "grade": 4,
+        "strand": "Spatial Sense",
+        "expectation_code": "E2.1",
+        "expectation_text": "The Metric System explain the relationships between grams and kilograms as metric units of mass, and between litres and millilitres as metric units of capacity, and use benchmarks for these units to estimate mass and capacity",
+        "notes": "length, area, volume, mass, time"
+      },
+      {
+        "skill_id": "G4_SPAT_METRIC_SYSTEM",
+        "grade": 4,
+        "strand": "Spatial Sense",
+        "expectation_code": "E2.2",
+        "expectation_text": "The Metric System use metric prefixes to describe the relative size of different metric units, and choose appropriate units and tools to measure length, mass, and capacity",
+        "notes": "length, area, volume, mass, time"
+      },
+      {
+        "skill_id": "G4_SPAT_TIME_SOLVE",
+        "grade": 4,
+        "strand": "Spatial Sense",
+        "expectation_code": "E2.3",
+        "expectation_text": "Time solve problems involving elapsed time by applying the relationships between different units of time 261",
+        "notes": "length, area, volume, mass, time"
+      },
+      {
+        "skill_id": "G4_SPAT_ANGLES_IDENTIFY",
+        "grade": 4,
+        "strand": "Spatial Sense",
+        "expectation_code": "E2.4",
+        "expectation_text": "Angles identify angles and classify them as right, straight, acute, or obtuse",
+        "notes": "length, area, volume, mass, time"
+      },
+      {
+        "skill_id": "G4_SPAT_AREA_ROW",
+        "grade": 4,
+        "strand": "Spatial Sense",
+        "expectation_code": "E2.5",
+        "expectation_text": "Area use the row and column structure of an array to measure the areas of rectangles and to show that the area of any rectangle can be found by multiplying its side lengths 262",
+        "notes": "length, area, volume, mass, time"
+      },
+      {
+        "skill_id": "G4_SPAT_AREA_APPLY",
+        "grade": 4,
+        "strand": "Spatial Sense",
+        "expectation_code": "E2.6",
+        "expectation_text": "Area apply the formula for the area of a rectangle to find the unknown measurement when given two of the three",
+        "notes": "length, area, volume, mass, time"
+      }
+    ]
   },
-  "ALG_CREATE_SOLVE_EQ": {
-    "strand": "Algebra",
-    "expectation_code": "C1.5",
-    "expectation_text": "Create and solve equations in various contexts, verify solutions",
-    "notes": "Problem-solving with algebra"
+  "5": {
+    "Algebra": [
+      {
+        "skill_id": "G5_ALG_PATTERNS_IDENTIFY",
+        "grade": 5,
+        "strand": "Algebra",
+        "expectation_code": "C1.1",
+        "expectation_text": "Patterns identify and describe repeating, growing, and shrinking patterns, including patterns found in real-life contexts",
+        "notes": "identify patterns, rules, make predictions"
+      },
+      {
+        "skill_id": "G5_ALG_PATTERNS_CREATE",
+        "grade": 5,
+        "strand": "Algebra",
+        "expectation_code": "C1.2",
+        "expectation_text": "Patterns create and translate growing and shrinking patterns using various representations, including tables of values and graphs",
+        "notes": "identify patterns, rules, make predictions"
+      },
+      {
+        "skill_id": "G5_ALG_PATTERNS_DETERMINE",
+        "grade": 5,
+        "strand": "Algebra",
+        "expectation_code": "C1.3",
+        "expectation_text": "Patterns determine pattern rules and use them to extend patterns, make and justify predictions, and identify missing elements in repeating, growing, and shrinking patterns",
+        "notes": "identify patterns, rules, make predictions"
+      },
+      {
+        "skill_id": "G5_ALG_PATTERNS_CREATE",
+        "grade": 5,
+        "strand": "Algebra",
+        "expectation_code": "C1.4",
+        "expectation_text": "Patterns create and describe patterns to illustrate relationships among whole numbers and decimal tenths and hundredths 296",
+        "notes": "identify patterns, rules, make predictions"
+      },
+      {
+        "skill_id": "G5_ALG_VARIABLES_EXPRESSIONS",
+        "grade": 5,
+        "strand": "Algebra",
+        "expectation_code": "C2.1",
+        "expectation_text": "Variables and Expressions translate among words, algebraic expressions, and visual representations that describe equivalent relationships",
+        "notes": "equalities, inequalities, solve and balance"
+      },
+      {
+        "skill_id": "G5_ALG_VARIABLES_EXPRESSIONS",
+        "grade": 5,
+        "strand": "Algebra",
+        "expectation_code": "C2.2",
+        "expectation_text": "Variables and Expressions evaluate algebraic expressions that involve whole numbers",
+        "notes": "equalities, inequalities, solve and balance"
+      },
+      {
+        "skill_id": "G5_ALG_EQUALITIES_INEQUALITIES",
+        "grade": 5,
+        "strand": "Algebra",
+        "expectation_code": "C2.3",
+        "expectation_text": "Equalities and Inequalities solve equations that involve whole numbers up to 100 in various contexts, and verify solutions 298",
+        "notes": "equalities, inequalities, solve and balance"
+      },
+      {
+        "skill_id": "G5_ALG_EQUALITIES_INEQUALITIES",
+        "grade": 5,
+        "strand": "Algebra",
+        "expectation_code": "C2.4",
+        "expectation_text": "Equalities and Inequalities solve inequalities that involve one operation and whole numbers up to 50, and verify and graph the solutions",
+        "notes": "equalities, inequalities, solve and balance"
+      },
+      {
+        "skill_id": "G5_ALG_CODING_SKILLS",
+        "grade": 5,
+        "strand": "Algebra",
+        "expectation_code": "C3.1",
+        "expectation_text": "Coding Skills solve problems and create computational representations of mathematical situations by writing and executing code, including code that involves conditional statements and other control structures",
+        "notes": "write algorithms, debug, predict outputs"
+      },
+      {
+        "skill_id": "G5_ALG_CODING_SKILLS",
+        "grade": 5,
+        "strand": "Algebra",
+        "expectation_code": "C3.2",
+        "expectation_text": "Coding Skills read and alter existing code, including code that involves conditional statements and other control structures, and describe how changes to the code affect the outcomes",
+        "notes": "write algorithms, debug, predict outputs"
+      }
+    ],
+    "Data": [
+      {
+        "skill_id": "G5_DATA_DATA_COLLECTION",
+        "grade": 5,
+        "strand": "Data",
+        "expectation_code": "D1.1",
+        "expectation_text": "Data Collection and Organization explain the importance of various sampling techniques for collecting a sample of data that is representative of a population",
+        "notes": "collect, organize, display, interpret data"
+      },
+      {
+        "skill_id": "G5_DATA_DATA_COLLECTION",
+        "grade": 5,
+        "strand": "Data",
+        "expectation_code": "D1.2",
+        "expectation_text": "Data Collection and Organization collect data, using appropriate sampling techniques as needed, to answer questions of interest about a population, and organize the data in relative-frequency tables 303",
+        "notes": "collect, organize, display, interpret data"
+      },
+      {
+        "skill_id": "G5_DATA_DATA_VISUALIZATION",
+        "grade": 5,
+        "strand": "Data",
+        "expectation_code": "D1.3",
+        "expectation_text": "Data Visualization select from among a variety of graphs, including stacked-bar graphs, the type of graph best suited to represent various sets of data; display the data in the graphs with proper sources, titles, and labels, and appropriate scales; and justify their choice of graphs",
+        "notes": "collect, organize, display, interpret data"
+      },
+      {
+        "skill_id": "G5_DATA_DATA_VISUALIZATION",
+        "grade": 5,
+        "strand": "Data",
+        "expectation_code": "D1.4",
+        "expectation_text": "Data Visualization create an infographic about a data set, representing the data in appropriate ways, including in relative-frequency tables and stacked-bar graphs, and incorporating any other relevant information that helps to tell a story about the data",
+        "notes": "collect, organize, display, interpret data"
+      },
+      {
+        "skill_id": "G5_DATA_DATA_ANALYSIS",
+        "grade": 5,
+        "strand": "Data",
+        "expectation_code": "D1.5",
+        "expectation_text": "Data Analysis determine the mean and the median and identify the mode(s), if any, for various data sets involving whole numbers and decimal numbers, and explain what each of these measures indicates about the data",
+        "notes": "collect, organize, display, interpret data"
+      },
+      {
+        "skill_id": "G5_DATA_DATA_ANALYSIS",
+        "grade": 5,
+        "strand": "Data",
+        "expectation_code": "D1.6",
+        "expectation_text": "Data Analysis analyse different sets of data presented in various ways, including in stacked-bar graphs and in misleading graphs, by asking and answering questions about the data, challenging preconceived notions, and drawing conclusions, then make convincing arguments and informed decisions",
+        "notes": "collect, organize, display, interpret data"
+      },
+      {
+        "skill_id": "G5_DATA_PROBABILITY_FRACTIONS",
+        "grade": 5,
+        "strand": "Data",
+        "expectation_code": "D2.1",
+        "expectation_text": "Probability use fractions to express the probability of events happening, represent this probability on a probability line, and use it to make predictions and informed decisions 307",
+        "notes": "describe likelihood; simple experimental probability"
+      },
+      {
+        "skill_id": "G5_DATA_PROBABILITY_DETERMINE",
+        "grade": 5,
+        "strand": "Data",
+        "expectation_code": "D2.2",
+        "expectation_text": "Probability determine and compare the theoretical and experimental probabilities of an event happening",
+        "notes": "describe likelihood; simple experimental probability"
+      }
+    ],
+    "Financial Literacy": [
+      {
+        "skill_id": "G5_FIN_MONEY_CONCEPTS",
+        "grade": 5,
+        "strand": "Financial Literacy",
+        "expectation_code": "F1.1",
+        "expectation_text": "Money Concepts describe several ways money can be transferred among individuals, organizations, and businesses",
+        "notes": "money, budgets, transactions, consumer decisions"
+      },
+      {
+        "skill_id": "G5_FIN_MONEY_CONCEPTS",
+        "grade": 5,
+        "strand": "Financial Literacy",
+        "expectation_code": "F1.2",
+        "expectation_text": "Money Concepts estimate and calculate the cost of transactions involving multiple items priced in dollars and cents, including sales tax, using various strategies 321",
+        "notes": "money, budgets, transactions, consumer decisions"
+      },
+      {
+        "skill_id": "G5_FIN_FINANCIAL_MANAGEMENT",
+        "grade": 5,
+        "strand": "Financial Literacy",
+        "expectation_code": "F1.3",
+        "expectation_text": "Financial Management design sample basic budgets to manage finances for various earning and spending scenarios",
+        "notes": "money, budgets, transactions, consumer decisions"
+      },
+      {
+        "skill_id": "G5_FIN_FINANCIAL_MANAGEMENT",
+        "grade": 5,
+        "strand": "Financial Literacy",
+        "expectation_code": "F1.4",
+        "expectation_text": "Financial Management explain the concepts of credit and debt, and describe how financial decisions may be impacted by each",
+        "notes": "money, budgets, transactions, consumer decisions"
+      },
+      {
+        "skill_id": "G5_FIN_CONSUMER_CIVIC",
+        "grade": 5,
+        "strand": "Financial Literacy",
+        "expectation_code": "F1.5",
+        "expectation_text": "Consumer and Civic Awareness calculate unit rates for various goods and services, and identify which rates offer the best value",
+        "notes": "money, budgets, transactions, consumer decisions"
+      },
+      {
+        "skill_id": "G5_FIN_CONSUMER_CIVIC",
+        "grade": 5,
+        "strand": "Financial Literacy",
+        "expectation_code": "F1.6",
+        "expectation_text": "Consumer and Civic Awareness describe the types of taxes that are collected by the different levels of government in Canada, and explain how tax revenue is used to provide services in the community",
+        "notes": "money, budgets, transactions, consumer decisions"
+      }
+    ],
+    "Number": [
+      {
+        "skill_id": "G5_NUM_WHOLE_NUMBERS",
+        "grade": 5,
+        "strand": "Number",
+        "expectation_code": "B1.1",
+        "expectation_text": "Whole Numbers read, represent, compose, and decompose whole numbers up to and including 100 000, using appropriate tools and strategies, and describe various ways they are used in everyday life",
+        "notes": "place value, comparing, operations, fractions"
+      },
+      {
+        "skill_id": "G5_NUM_WHOLE_NUMBERS",
+        "grade": 5,
+        "strand": "Number",
+        "expectation_code": "B1.2",
+        "expectation_text": "Whole Numbers compare and order whole numbers up to and including 100 000, in various contexts",
+        "notes": "place value, comparing, operations, fractions"
+      },
+      {
+        "skill_id": "G5_NUM_FRACTIONS_DECIMALS",
+        "grade": 5,
+        "strand": "Number",
+        "expectation_code": "B1.3",
+        "expectation_text": "Fractions, Decimals, and Percents represent equivalent fractions from halves to twelfths, including improper fractions and mixed numbers, using appropriate tools, in various contexts",
+        "notes": "place value, comparing, operations, fractions"
+      },
+      {
+        "skill_id": "G5_NUM_FRACTIONS_DECIMALS",
+        "grade": 5,
+        "strand": "Number",
+        "expectation_code": "B1.4",
+        "expectation_text": "Fractions, Decimals, and Percents compare and order fractions from halves to twelfths, including improper fractions and mixed numbers, in various contexts",
+        "notes": "place value, comparing, operations, fractions"
+      },
+      {
+        "skill_id": "G5_NUM_FRACTIONS_DECIMALS",
+        "grade": 5,
+        "strand": "Number",
+        "expectation_code": "B1.5",
+        "expectation_text": "Fractions, Decimals, and Percents read, represent, compare, and order decimal numbers up to hundredths, in various contexts",
+        "notes": "place value, comparing, operations, fractions"
+      },
+      {
+        "skill_id": "G5_NUM_FRACTIONS_DECIMALS",
+        "grade": 5,
+        "strand": "Number",
+        "expectation_code": "B1.6",
+        "expectation_text": "Fractions, Decimals, and Percents round decimal numbers to the nearest tenth, in various contexts 277",
+        "notes": "place value, comparing, operations, fractions"
+      },
+      {
+        "skill_id": "G5_NUM_FRACTIONS_DECIMALS",
+        "grade": 5,
+        "strand": "Number",
+        "expectation_code": "B1.7",
+        "expectation_text": "Fractions, Decimals, and Percents describe relationships and show equivalences among fractions, decimal numbers up to hundredths, and whole number percents, using appropriate tools and drawings, in various contexts",
+        "notes": "place value, comparing, operations, fractions"
+      },
+      {
+        "skill_id": "G5_NUM_PROPERTIES_RELATIONSHIPS",
+        "grade": 5,
+        "strand": "Number",
+        "expectation_code": "B2.1",
+        "expectation_text": "Properties and Relationships use the properties of operations, and the relationships between operations, to solve problems involving whole numbers and decimal numbers, including those requiring more than one operation, and check calculations",
+        "notes": "place value, comparing, operations, fractions"
+      },
+      {
+        "skill_id": "G5_NUM_MATH_FACTS",
+        "grade": 5,
+        "strand": "Number",
+        "expectation_code": "B2.2",
+        "expectation_text": "Math Facts recall and demonstrate multiplication facts from 0 \u00d7 0 to 12 \u00d7 12, and related division facts",
+        "notes": "place value, comparing, operations, fractions"
+      },
+      {
+        "skill_id": "G5_NUM_MENTAL_MATH",
+        "grade": 5,
+        "strand": "Number",
+        "expectation_code": "B2.3",
+        "expectation_text": "Mental Math use mental math strategies to multiply whole numbers by 0.1 and 0.01 and estimate sums and differences of decimal numbers up to hundredths, and explain the strategies used",
+        "notes": "place value, comparing, operations, fractions"
+      },
+      {
+        "skill_id": "G5_NUM_ADDITION_SUBTRACTION",
+        "grade": 5,
+        "strand": "Number",
+        "expectation_code": "B2.4",
+        "expectation_text": "Addition and Subtraction represent and solve problems involving the addition and subtraction of whole numbers that add up to no more than 100 000, and of decimal numbers up to hundredths, using appropriate tools, strategies, and algorithms",
+        "notes": "place value, comparing, operations, fractions"
+      },
+      {
+        "skill_id": "G5_NUM_ADDITION_SUBTRACTION",
+        "grade": 5,
+        "strand": "Number",
+        "expectation_code": "B2.5",
+        "expectation_text": "Addition and Subtraction add and subtract fractions with like denominators, in various contexts 285",
+        "notes": "place value, comparing, operations, fractions"
+      },
+      {
+        "skill_id": "G5_NUM_MULTIPLICATION_DIVISION",
+        "grade": 5,
+        "strand": "Number",
+        "expectation_code": "B2.6",
+        "expectation_text": "Multiplication and Division represent and solve problems involving the multiplication of two-digit whole numbers by two- digit whole numbers using the area model and using algorithms, and make connections between the two methods",
+        "notes": "place value, comparing, operations, fractions"
+      },
+      {
+        "skill_id": "G5_NUM_MULTIPLICATION_DIVISION",
+        "grade": 5,
+        "strand": "Number",
+        "expectation_code": "B2.7",
+        "expectation_text": "Multiplication and Division represent and solve problems involving the division of three-digit whole numbers by two-digit whole numbers using the area model and using algorithms, and make connections between the two methods, while expressing any remainder appropriately",
+        "notes": "place value, comparing, operations, fractions"
+      },
+      {
+        "skill_id": "G5_NUM_MULTIPLICATION_DIVISION",
+        "grade": 5,
+        "strand": "Number",
+        "expectation_code": "B2.8",
+        "expectation_text": "Multiplication and Division multiply and divide one-digit whole numbers by unit fractions, using appropriate tools and drawings",
+        "notes": "place value, comparing, operations, fractions"
+      },
+      {
+        "skill_id": "G5_NUM_MULTIPLICATION_DIVISION",
+        "grade": 5,
+        "strand": "Number",
+        "expectation_code": "B2.9",
+        "expectation_text": "Multiplication and Division represent and create equivalent ratios and rates, using a variety of tools and models, in various contexts",
+        "notes": "place value, comparing, operations, fractions"
+      }
+    ],
+    "Spatial Sense": [
+      {
+        "skill_id": "G5_SPAT_GEOMETRIC_REASONING",
+        "grade": 5,
+        "strand": "Spatial Sense",
+        "expectation_code": "E1.1",
+        "expectation_text": "Geometric Reasoning identify geometric properties of triangles, and construct different types of triangles when given side or angle measurements",
+        "notes": "shapes, location, transformations; describe movement"
+      },
+      {
+        "skill_id": "G5_SPAT_GEOMETRIC_REASONING",
+        "grade": 5,
+        "strand": "Spatial Sense",
+        "expectation_code": "E1.2",
+        "expectation_text": "Geometric Reasoning identify and construct congruent triangles, rectangles, and parallelograms 311",
+        "notes": "shapes, location, transformations; describe movement"
+      },
+      {
+        "skill_id": "G5_SPAT_GEOMETRIC_REASONING",
+        "grade": 5,
+        "strand": "Spatial Sense",
+        "expectation_code": "E1.3",
+        "expectation_text": "Geometric Reasoning draw top, front, and side views of objects, and match drawings with objects",
+        "notes": "shapes, location, transformations; describe movement"
+      },
+      {
+        "skill_id": "G5_SPAT_LOCATION_MOVEMENT",
+        "grade": 5,
+        "strand": "Spatial Sense",
+        "expectation_code": "E1.4",
+        "expectation_text": "Location and Movement plot and read coordinates in the first quadrant of a Cartesian plane using various scales, and describe the translations that move a point from one coordinate to another 312",
+        "notes": "shapes, location, transformations; describe movement"
+      },
+      {
+        "skill_id": "G5_SPAT_LOCATION_MOVEMENT",
+        "grade": 5,
+        "strand": "Spatial Sense",
+        "expectation_code": "E1.5",
+        "expectation_text": "Location and Movement describe and perform translations, reflections, and rotations up to 180\u00b0 on a grid, and predict the results of these transformations",
+        "notes": "shapes, location, transformations; describe movement"
+      },
+      {
+        "skill_id": "G5_SPAT_METRIC_SYSTEM",
+        "grade": 5,
+        "strand": "Spatial Sense",
+        "expectation_code": "E2.1",
+        "expectation_text": "The Metric System use appropriate metric units to estimate and measure length, area, mass, and capacity",
+        "notes": "length, area, volume, mass, time"
+      },
+      {
+        "skill_id": "G5_SPAT_METRIC_SYSTEM",
+        "grade": 5,
+        "strand": "Spatial Sense",
+        "expectation_code": "E2.2",
+        "expectation_text": "The Metric System solve problems that involve converting larger metric units into smaller ones, and describe the base ten relationships among metric units",
+        "notes": "length, area, volume, mass, time"
+      },
+      {
+        "skill_id": "G5_SPAT_ANGLES_COMPARE",
+        "grade": 5,
+        "strand": "Spatial Sense",
+        "expectation_code": "E2.3",
+        "expectation_text": "Angles compare angles and determine their relative size by matching them and by measuring them using appropriate non-standard units",
+        "notes": "length, area, volume, mass, time"
+      },
+      {
+        "skill_id": "G5_SPAT_ANGLES_EXPLAIN",
+        "grade": 5,
+        "strand": "Spatial Sense",
+        "expectation_code": "E2.4",
+        "expectation_text": "Angles explain how protractors work, use them to measure and construct angles up to 180\u00b0, and use benchmark angles to estimate the size of other angles 317",
+        "notes": "length, area, volume, mass, time"
+      },
+      {
+        "skill_id": "G5_SPAT_AREA_AREA",
+        "grade": 5,
+        "strand": "Spatial Sense",
+        "expectation_code": "E2.5",
+        "expectation_text": "Area use the area relationships among rectangles, parallelograms, and triangles to develop the formulas for the area of a parallelogram and the area of a triangle, and solve related problems",
+        "notes": "length, area, volume, mass, time"
+      },
+      {
+        "skill_id": "G5_SPAT_AREA_SHOW",
+        "grade": 5,
+        "strand": "Spatial Sense",
+        "expectation_code": "E2.6",
+        "expectation_text": "Area show that two-dimensional shapes with the same area can have different perimeters, and solve related problems",
+        "notes": "length, area, volume, mass, time"
+      }
+    ]
   },
-  "ALG_CODE_VARS": {
-    "strand": "Algebra",
-    "expectation_code": "C2.1",
-    "expectation_text": "Use coding to demonstrate understanding of variables, parameters, equations, inequalities",
-    "notes": "Dynamic math representation in code"
+  "6": {
+    "Algebra": [
+      {
+        "skill_id": "G6_ALG_PATTERNS_IDENTIFY",
+        "grade": 6,
+        "strand": "Algebra",
+        "expectation_code": "C1.1",
+        "expectation_text": "Patterns identify and describe repeating, growing, and shrinking patterns, including patterns found in real-life contexts, and specify which growing patterns are linear",
+        "notes": "identify patterns, rules, make predictions"
+      },
+      {
+        "skill_id": "G6_ALG_PATTERNS_CREATE",
+        "grade": 6,
+        "strand": "Algebra",
+        "expectation_code": "C1.2",
+        "expectation_text": "Patterns create and translate repeating, growing, and shrinking patterns using various representations, including tables of values, graphs, and, for linear growing patterns, algebraic expressions and equations 350",
+        "notes": "identify patterns, rules, make predictions"
+      },
+      {
+        "skill_id": "G6_ALG_PATTERNS_DETERMINE",
+        "grade": 6,
+        "strand": "Algebra",
+        "expectation_code": "C1.3",
+        "expectation_text": "Patterns determine pattern rules and use them to extend patterns, make and justify predictions, and identify missing elements in repeating, growing, and shrinking patterns, and use algebraic representations of the pattern rules to solve for unknown values in linear growing patterns 352",
+        "notes": "identify patterns, rules, make predictions"
+      },
+      {
+        "skill_id": "G6_ALG_PATTERNS_CREATE",
+        "grade": 6,
+        "strand": "Algebra",
+        "expectation_code": "C1.4",
+        "expectation_text": "Patterns create and describe patterns to illustrate relationships among whole numbers and decimal numbers",
+        "notes": "identify patterns, rules, make predictions"
+      },
+      {
+        "skill_id": "G6_ALG_VARIABLES_EXPRESSIONS",
+        "grade": 6,
+        "strand": "Algebra",
+        "expectation_code": "C2.1",
+        "expectation_text": "Variables and Expressions add monomials with a degree of 1 that involve whole numbers, using tools",
+        "notes": "equalities, inequalities, solve and balance"
+      },
+      {
+        "skill_id": "G6_ALG_VARIABLES_EXPRESSIONS",
+        "grade": 6,
+        "strand": "Algebra",
+        "expectation_code": "C2.2",
+        "expectation_text": "Variables and Expressions evaluate algebraic expressions that involve whole numbers and decimal tenths",
+        "notes": "equalities, inequalities, solve and balance"
+      },
+      {
+        "skill_id": "G6_ALG_EQUALITIES_INEQUALITIES",
+        "grade": 6,
+        "strand": "Algebra",
+        "expectation_code": "C2.3",
+        "expectation_text": "Equalities and Inequalities solve equations that involve multiple terms and whole numbers in various contexts, and verify solutions",
+        "notes": "equalities, inequalities, solve and balance"
+      },
+      {
+        "skill_id": "G6_ALG_EQUALITIES_INEQUALITIES",
+        "grade": 6,
+        "strand": "Algebra",
+        "expectation_code": "C2.4",
+        "expectation_text": "Equalities and Inequalities solve inequalities that involve two operations and whole numbers up to 100, and verify and graph the solutions",
+        "notes": "equalities, inequalities, solve and balance"
+      },
+      {
+        "skill_id": "G6_ALG_CODING_SKILLS",
+        "grade": 6,
+        "strand": "Algebra",
+        "expectation_code": "C3.1",
+        "expectation_text": "Coding Skills solve problems and create computational representations of mathematical situations by writing and executing efficient code, including code that involves conditional statements and other control structures",
+        "notes": "write algorithms, debug, predict outputs"
+      },
+      {
+        "skill_id": "G6_ALG_CODING_SKILLS",
+        "grade": 6,
+        "strand": "Algebra",
+        "expectation_code": "C3.2",
+        "expectation_text": "Coding Skills read and alter existing code, including code that involves conditional statements and other control structures, and describe how changes to the code affect the outcomes and the efficiency of the code",
+        "notes": "write algorithms, debug, predict outputs"
+      }
+    ],
+    "Data": [
+      {
+        "skill_id": "G6_DATA_DATA_COLLECTION",
+        "grade": 6,
+        "strand": "Data",
+        "expectation_code": "D1.1",
+        "expectation_text": "Data Collection and Organization describe the difference between discrete and continuous data, and provide examples of each",
+        "notes": "collect, organize, display, interpret data"
+      },
+      {
+        "skill_id": "G6_DATA_DATA_COLLECTION",
+        "grade": 6,
+        "strand": "Data",
+        "expectation_code": "D1.2",
+        "expectation_text": "Data Collection and Organization collect qualitative data and discrete and continuous quantitative data to answer questions of interest about a population, and organize the sets of data as appropriate, including using intervals",
+        "notes": "collect, organize, display, interpret data"
+      },
+      {
+        "skill_id": "G6_DATA_DATA_VISUALIZATION",
+        "grade": 6,
+        "strand": "Data",
+        "expectation_code": "D1.3",
+        "expectation_text": "Data Visualization select from among a variety of graphs, including histograms and broken-line graphs, the type of graph best suited to represent various sets of data; display the data in the graphs with proper sources, titles, and labels, and appropriate scales; and justify their choice of graphs",
+        "notes": "collect, organize, display, interpret data"
+      },
+      {
+        "skill_id": "G6_DATA_DATA_VISUALIZATION",
+        "grade": 6,
+        "strand": "Data",
+        "expectation_code": "D1.4",
+        "expectation_text": "Data Visualization create an infographic about a data set, representing the data in appropriate ways, including in tables, histograms, and broken-line graphs, and incorporating any other relevant information that helps to tell a story about the data",
+        "notes": "collect, organize, display, interpret data"
+      },
+      {
+        "skill_id": "G6_DATA_DATA_ANALYSIS",
+        "grade": 6,
+        "strand": "Data",
+        "expectation_code": "D1.5",
+        "expectation_text": "Data Analysis determine the range as a measure of spread and the measures of central tendency for various data sets, and use this information to compare two or more data sets",
+        "notes": "collect, organize, display, interpret data"
+      },
+      {
+        "skill_id": "G6_DATA_DATA_ANALYSIS",
+        "grade": 6,
+        "strand": "Data",
+        "expectation_code": "D1.6",
+        "expectation_text": "Data Analysis analyse different sets of data presented in various ways, including in histograms and broken- line graphs and in misleading graphs, by asking and answering questions about the data, challenging preconceived notions, and drawing conclusions, then make convincing arguments and informed decisions",
+        "notes": "collect, organize, display, interpret data"
+      },
+      {
+        "skill_id": "G6_DATA_PROBABILITY_FRACTIONS",
+        "grade": 6,
+        "strand": "Data",
+        "expectation_code": "D2.1",
+        "expectation_text": "Probability use fractions, decimals, and percents to express the probability of events happening, represent this probability on a probability line, and use it to make predictions and informed decisions",
+        "notes": "describe likelihood; simple experimental probability"
+      },
+      {
+        "skill_id": "G6_DATA_PROBABILITY_DETERMINE",
+        "grade": 6,
+        "strand": "Data",
+        "expectation_code": "D2.2",
+        "expectation_text": "Probability determine and compare the theoretical and experimental probabilities of two independent events happening",
+        "notes": "describe likelihood; simple experimental probability"
+      }
+    ],
+    "Financial Literacy": [
+      {
+        "skill_id": "G6_FIN_MONEY_CONCEPTS",
+        "grade": 6,
+        "strand": "Financial Literacy",
+        "expectation_code": "F1.1",
+        "expectation_text": "Money Concepts describe the advantages and disadvantages of various methods of payment that can be used to purchase goods and services",
+        "notes": "money, budgets, transactions, consumer decisions"
+      },
+      {
+        "skill_id": "G6_FIN_FINANCIAL_MANAGEMENT",
+        "grade": 6,
+        "strand": "Financial Literacy",
+        "expectation_code": "F1.2",
+        "expectation_text": "Financial Management identify different types of financial goals, including earning and saving goals, and outline some key steps in achieving them",
+        "notes": "money, budgets, transactions, consumer decisions"
+      },
+      {
+        "skill_id": "G6_FIN_FINANCIAL_MANAGEMENT",
+        "grade": 6,
+        "strand": "Financial Literacy",
+        "expectation_code": "F1.3",
+        "expectation_text": "Financial Management identify and describe various factors that may help or interfere with reaching financial goals",
+        "notes": "money, budgets, transactions, consumer decisions"
+      },
+      {
+        "skill_id": "G6_FIN_CONSUMER_CIVIC",
+        "grade": 6,
+        "strand": "Financial Literacy",
+        "expectation_code": "F1.4",
+        "expectation_text": "Consumer and Civic Awareness explain the concept of interest rates, and identify types of interest rates and fees associated with different accounts and loans offered by various banks and other financial institutions 382",
+        "notes": "money, budgets, transactions, consumer decisions"
+      },
+      {
+        "skill_id": "G6_FIN_CONSUMER_CIVIC",
+        "grade": 6,
+        "strand": "Financial Literacy",
+        "expectation_code": "F1.5",
+        "expectation_text": "Consumer and Civic Awareness describe trading, lending, borrowing, and donating as different ways to distribute financial and other resources among individuals and organizations",
+        "notes": "money, budgets, transactions, consumer decisions"
+      }
+    ],
+    "Number": [
+      {
+        "skill_id": "G6_NUM_RATIONAL_NUMBERS",
+        "grade": 6,
+        "strand": "Number",
+        "expectation_code": "B1.1",
+        "expectation_text": "Rational Numbers read and represent whole numbers up to and including one million, using appropriate tools and strategies, and describe various ways they are used in everyday life",
+        "notes": "place value, comparing, operations, fractions"
+      },
+      {
+        "skill_id": "G6_NUM_RATIONAL_NUMBERS",
+        "grade": 6,
+        "strand": "Number",
+        "expectation_code": "B1.2",
+        "expectation_text": "Rational Numbers read and represent integers, using a variety of tools and strategies, including horizontal and vertical number lines",
+        "notes": "place value, comparing, operations, fractions"
+      },
+      {
+        "skill_id": "G6_NUM_RATIONAL_NUMBERS",
+        "grade": 6,
+        "strand": "Number",
+        "expectation_code": "B1.3",
+        "expectation_text": "Rational Numbers compare and order integers, decimal numbers, and fractions, separately and in combination, in various contexts",
+        "notes": "place value, comparing, operations, fractions"
+      },
+      {
+        "skill_id": "G6_NUM_FRACTIONS_DECIMALS",
+        "grade": 6,
+        "strand": "Number",
+        "expectation_code": "B1.4",
+        "expectation_text": "Fractions, Decimals, and Percents read, represent, compare, and order decimal numbers up to thousandths, in various contexts 331",
+        "notes": "place value, comparing, operations, fractions"
+      },
+      {
+        "skill_id": "G6_NUM_FRACTIONS_DECIMALS",
+        "grade": 6,
+        "strand": "Number",
+        "expectation_code": "B1.5",
+        "expectation_text": "Fractions, Decimals, and Percents round decimal numbers, both terminating and repeating, to the nearest tenth, hundredth, or whole number, as applicable, in various contexts",
+        "notes": "place value, comparing, operations, fractions"
+      },
+      {
+        "skill_id": "G6_NUM_FRACTIONS_DECIMALS",
+        "grade": 6,
+        "strand": "Number",
+        "expectation_code": "B1.6",
+        "expectation_text": "Fractions, Decimals, and Percents describe relationships and show equivalences among fractions and decimal numbers up to thousandths, using appropriate tools and drawings, in various contexts",
+        "notes": "place value, comparing, operations, fractions"
+      },
+      {
+        "skill_id": "G6_NUM_MULTIPLICATION_DIVISION",
+        "grade": 6,
+        "strand": "Number",
+        "expectation_code": "B2.1",
+        "expectation_text": "0 Multiplication and Division divide whole numbers by proper fractions, using appropriate tools and strategies",
+        "notes": "place value, comparing, operations, fractions"
+      },
+      {
+        "skill_id": "G6_NUM_MATH_FACTS",
+        "grade": 6,
+        "strand": "Number",
+        "expectation_code": "B2.2",
+        "expectation_text": "Math Facts understand the divisibility rules and use them to determine whether numbers are divisible by 2, 3, 4, 5, 6, 8, 9, and 10 336 Percents represent a rate out of 100 (\u201cper cent\u201d means \u201cper hundred\u201d) and are always expressed in relation to a whole. To visually determine the percent of an amount, the whole is subdivided into 100 parts (percent) and described using the percent symbol (%).",
+        "notes": "place value, comparing, operations, fractions"
+      },
+      {
+        "skill_id": "G6_NUM_MENTAL_MATH",
+        "grade": 6,
+        "strand": "Number",
+        "expectation_code": "B2.3",
+        "expectation_text": "Mental Math use mental math strategies to calculate percents of whole numbers, including 1%, 5%, 10%, 15%, 25%, and 50%, and explain the strategies used",
+        "notes": "place value, comparing, operations, fractions"
+      },
+      {
+        "skill_id": "G6_NUM_ADDITION_SUBTRACTION",
+        "grade": 6,
+        "strand": "Number",
+        "expectation_code": "B2.4",
+        "expectation_text": "Addition and Subtraction represent and solve problems involving the addition and subtraction of whole numbers and decimal numbers, using estimation and algorithms",
+        "notes": "place value, comparing, operations, fractions"
+      },
+      {
+        "skill_id": "G6_NUM_ADDITION_SUBTRACTION",
+        "grade": 6,
+        "strand": "Number",
+        "expectation_code": "B2.5",
+        "expectation_text": "Addition and Subtraction add and subtract fractions with like and unlike denominators, using appropriate tools, in various contexts",
+        "notes": "place value, comparing, operations, fractions"
+      },
+      {
+        "skill_id": "G6_NUM_MULTIPLICATION_DIVISION",
+        "grade": 6,
+        "strand": "Number",
+        "expectation_code": "B2.6",
+        "expectation_text": "Multiplication and Division represent composite numbers as a product of their prime factors, including through the use of factor trees",
+        "notes": "place value, comparing, operations, fractions"
+      },
+      {
+        "skill_id": "G6_NUM_MULTIPLICATION_DIVISION",
+        "grade": 6,
+        "strand": "Number",
+        "expectation_code": "B2.7",
+        "expectation_text": "Multiplication and Division represent and solve problems involving the multiplication of three-digit whole numbers by decimal tenths, using algorithms",
+        "notes": "place value, comparing, operations, fractions"
+      },
+      {
+        "skill_id": "G6_NUM_MULTIPLICATION_DIVISION",
+        "grade": 6,
+        "strand": "Number",
+        "expectation_code": "B2.8",
+        "expectation_text": "Multiplication and Division represent and solve problems involving the division of three-digit whole numbers by decimal tenths, using appropriate tools, strategies, and algorithms, and expressing remainders as appropriate",
+        "notes": "place value, comparing, operations, fractions"
+      },
+      {
+        "skill_id": "G6_NUM_MULTIPLICATION_DIVISION",
+        "grade": 6,
+        "strand": "Number",
+        "expectation_code": "B2.9",
+        "expectation_text": "Multiplication and Division multiply whole numbers by proper fractions, using appropriate tools and strategies",
+        "notes": "place value, comparing, operations, fractions"
+      }
+    ],
+    "Spatial Sense": [
+      {
+        "skill_id": "G6_SPAT_GEOMETRIC_REASONING",
+        "grade": 6,
+        "strand": "Spatial Sense",
+        "expectation_code": "E1.1",
+        "expectation_text": "Geometric Reasoning create lists of the geometric properties of various types of quadrilaterals, including the properties of the diagonals, rotational symmetry, and line symmetry",
+        "notes": "shapes, location, transformations; describe movement"
+      },
+      {
+        "skill_id": "G6_SPAT_GEOMETRIC_REASONING",
+        "grade": 6,
+        "strand": "Spatial Sense",
+        "expectation_code": "E1.2",
+        "expectation_text": "Geometric Reasoning construct three-dimensional objects when given their top, front, and side views",
+        "notes": "shapes, location, transformations; describe movement"
+      },
+      {
+        "skill_id": "G6_SPAT_LOCATION_MOVEMENT",
+        "grade": 6,
+        "strand": "Spatial Sense",
+        "expectation_code": "E1.3",
+        "expectation_text": "Location and Movement plot and read coordinates in all four quadrants of a Cartesian plane, and describe the translations that move a point from one coordinate to another 371",
+        "notes": "shapes, location, transformations; describe movement"
+      },
+      {
+        "skill_id": "G6_SPAT_LOCATION_MOVEMENT",
+        "grade": 6,
+        "strand": "Spatial Sense",
+        "expectation_code": "E1.4",
+        "expectation_text": "Location and Movement describe and perform combinations of translations, reflections, and rotations up to 360\u00b0 on a grid, and predict the results of these transformations 372",
+        "notes": "shapes, location, transformations; describe movement"
+      },
+      {
+        "skill_id": "G6_SPAT_METRIC_SYSTEM",
+        "grade": 6,
+        "strand": "Spatial Sense",
+        "expectation_code": "E2.1",
+        "expectation_text": "The Metric System measure length, area, mass, and capacity using the appropriate metric units, and solve problems that require converting smaller units to larger ones and vice versa",
+        "notes": "length, area, volume, mass, time"
+      },
+      {
+        "skill_id": "G6_SPAT_ANGLES_PROTRACTOR",
+        "grade": 6,
+        "strand": "Spatial Sense",
+        "expectation_code": "E2.2",
+        "expectation_text": "Angles use a protractor to measure and construct angles up to 360\u00b0, and state the relationship between angles that are measured clockwise and those that are measured counterclockwise",
+        "notes": "length, area, volume, mass, time"
+      },
+      {
+        "skill_id": "G6_SPAT_ANGLES_PROPERTIES",
+        "grade": 6,
+        "strand": "Spatial Sense",
+        "expectation_code": "E2.3",
+        "expectation_text": "Angles use the properties of supplementary angles, complementary angles, opposite angles, and interior and exterior angles to solve for unknown angle measures",
+        "notes": "length, area, volume, mass, time"
+      },
+      {
+        "skill_id": "G6_SPAT_AREA_SURFACE",
+        "grade": 6,
+        "strand": "Spatial Sense",
+        "expectation_code": "E2.4",
+        "expectation_text": "Area and Surface Area determine the areas of trapezoids, rhombuses, kites, and composite polygons by decomposing them into shapes with known areas 377",
+        "notes": "length, area, volume, mass, time"
+      },
+      {
+        "skill_id": "G6_SPAT_AREA_SURFACE",
+        "grade": 6,
+        "strand": "Spatial Sense",
+        "expectation_code": "E2.5",
+        "expectation_text": "Area and Surface Area create and use nets to demonstrate the relationship between the faces of prisms and pyramids and their surface areas 379",
+        "notes": "length, area, volume, mass, time"
+      },
+      {
+        "skill_id": "G6_SPAT_AREA_SURFACE",
+        "grade": 6,
+        "strand": "Spatial Sense",
+        "expectation_code": "E2.6",
+        "expectation_text": "Area and Surface Area determine the surface areas of prisms and pyramids by calculating the areas of their two- dimensional faces and adding them together",
+        "notes": "length, area, volume, mass, time"
+      }
+    ]
   },
-  "ALG_CODE_DECOMP": {
-    "strand": "Algebra",
-    "expectation_code": "C2.2",
-    "expectation_text": "Create code by decomposing situations into computational steps to represent math concepts",
-    "notes": "Algorithms for math relationships"
+  "7": {
+    "Algebra": [
+      {
+        "skill_id": "G7_ALG_PATTERNS_IDENTIFY",
+        "grade": 7,
+        "strand": "Algebra",
+        "expectation_code": "C1.1",
+        "expectation_text": "Patterns identify and compare a variety of repeating, growing, and shrinking patterns, including patterns found in real-life contexts, and compare linear growing patterns on the basis of their constant rates and initial values 410",
+        "notes": "identify patterns, rules, make predictions"
+      },
+      {
+        "skill_id": "G7_ALG_PATTERNS_CREATE",
+        "grade": 7,
+        "strand": "Algebra",
+        "expectation_code": "C1.2",
+        "expectation_text": "Patterns create and translate repeating, growing, and shrinking patterns involving whole numbers and decimal numbers using various representations, including algebraic expressions and equations for linear growing patterns",
+        "notes": "identify patterns, rules, make predictions"
+      },
+      {
+        "skill_id": "G7_ALG_PATTERNS_DETERMINE",
+        "grade": 7,
+        "strand": "Algebra",
+        "expectation_code": "C1.3",
+        "expectation_text": "Patterns determine pattern rules and use them to extend patterns, make and justify predictions, and identify missing elements in repeating, growing, and shrinking patterns involving whole numbers and decimal numbers, and use algebraic representations of the pattern rules to solve for unknown values in linear growing patterns",
+        "notes": "identify patterns, rules, make predictions"
+      },
+      {
+        "skill_id": "G7_ALG_PATTERNS_CREATE",
+        "grade": 7,
+        "strand": "Algebra",
+        "expectation_code": "C1.4",
+        "expectation_text": "Patterns create and describe patterns to illustrate relationships among integers",
+        "notes": "identify patterns, rules, make predictions"
+      },
+      {
+        "skill_id": "G7_ALG_VARIABLES_EXPRESSIONS",
+        "grade": 7,
+        "strand": "Algebra",
+        "expectation_code": "C2.1",
+        "expectation_text": "Variables and Expressions add and subtract monomials with a degree of 1 that involve whole numbers, using tools",
+        "notes": "equalities, inequalities, solve and balance"
+      },
+      {
+        "skill_id": "G7_ALG_VARIABLES_EXPRESSIONS",
+        "grade": 7,
+        "strand": "Algebra",
+        "expectation_code": "C2.2",
+        "expectation_text": "Variables and Expressions evaluate algebraic expressions that involve whole numbers and decimal numbers 415",
+        "notes": "equalities, inequalities, solve and balance"
+      },
+      {
+        "skill_id": "G7_ALG_EQUALITIES_INEQUALITIES",
+        "grade": 7,
+        "strand": "Algebra",
+        "expectation_code": "C2.3",
+        "expectation_text": "Equalities and Inequalities solve equations that involve multiple terms, whole numbers, and decimal numbers in various contexts, and verify solutions",
+        "notes": "equalities, inequalities, solve and balance"
+      },
+      {
+        "skill_id": "G7_ALG_EQUALITIES_INEQUALITIES",
+        "grade": 7,
+        "strand": "Algebra",
+        "expectation_code": "C2.4",
+        "expectation_text": "Equalities and Inequalities solve inequalities that involve multiple terms and whole numbers, and verify and graph the solutions",
+        "notes": "equalities, inequalities, solve and balance"
+      },
+      {
+        "skill_id": "G7_ALG_CODING_SKILLS",
+        "grade": 7,
+        "strand": "Algebra",
+        "expectation_code": "C3.1",
+        "expectation_text": "Coding Skills solve problems and create computational representations of mathematical situations by writing and executing efficient code, including code that involves events influenced by a defined count and/or sub-program and other control structures",
+        "notes": "write algorithms, debug, predict outputs"
+      },
+      {
+        "skill_id": "G7_ALG_CODING_SKILLS",
+        "grade": 7,
+        "strand": "Algebra",
+        "expectation_code": "C3.2",
+        "expectation_text": "Coding Skills read and alter existing code, including code that involves events influenced by a defined count and/or sub-program and other control structures, and describe how changes to the code affect the outcomes and the efficiency of the code",
+        "notes": "write algorithms, debug, predict outputs"
+      }
+    ],
+    "Data": [
+      {
+        "skill_id": "G7_DATA_DATA_COLLECTION",
+        "grade": 7,
+        "strand": "Data",
+        "expectation_code": "D1.1",
+        "expectation_text": "Data Collection and Organization explain why percentages are used to represent the distribution of a variable for a population or sample in large sets of data, and provide examples",
+        "notes": "collect, organize, display, interpret data"
+      },
+      {
+        "skill_id": "G7_DATA_DATA_COLLECTION",
+        "grade": 7,
+        "strand": "Data",
+        "expectation_code": "D1.2",
+        "expectation_text": "Data Collection and Organization collect qualitative data and discrete and continuous quantitative data to answer questions of interest, and organize the sets of data as appropriate, including using percentages 421",
+        "notes": "collect, organize, display, interpret data"
+      },
+      {
+        "skill_id": "G7_DATA_DATA_VISUALIZATION",
+        "grade": 7,
+        "strand": "Data",
+        "expectation_code": "D1.3",
+        "expectation_text": "Data Visualization select from among a variety of graphs, including circle graphs, the type of graph best suited to represent various sets of data; display the data in the graphs with proper sources, titles, and labels, and appropriate scales; and justify their choice of graphs",
+        "notes": "collect, organize, display, interpret data"
+      },
+      {
+        "skill_id": "G7_DATA_DATA_VISUALIZATION",
+        "grade": 7,
+        "strand": "Data",
+        "expectation_code": "D1.4",
+        "expectation_text": "Data Visualization create an infographic about a data set, representing the data in appropriate ways, including in tables and circle graphs, and incorporating any other relevant information that helps to tell a story about the data",
+        "notes": "collect, organize, display, interpret data"
+      },
+      {
+        "skill_id": "G7_DATA_DATA_ANALYSIS",
+        "grade": 7,
+        "strand": "Data",
+        "expectation_code": "D1.5",
+        "expectation_text": "Data Analysis determine the impact of adding or removing data from a data set on a measure of central tendency, and describe how these changes alter the shape and distribution of the data 423",
+        "notes": "collect, organize, display, interpret data"
+      },
+      {
+        "skill_id": "G7_DATA_DATA_ANALYSIS",
+        "grade": 7,
+        "strand": "Data",
+        "expectation_code": "D1.6",
+        "expectation_text": "Data Analysis analyse different sets of data presented in various ways, including in circle graphs and in misleading graphs, by asking and answering questions about the data, challenging preconceived notions, and drawing conclusions, then make convincing arguments and informed decisions",
+        "notes": "collect, organize, display, interpret data"
+      },
+      {
+        "skill_id": "G7_DATA_PROBABILITY_DESCRIBE",
+        "grade": 7,
+        "strand": "Data",
+        "expectation_code": "D2.1",
+        "expectation_text": "Probability describe the difference between independent and dependent events, and explain how their probabilities differ, providing examples",
+        "notes": "describe likelihood; simple experimental probability"
+      },
+      {
+        "skill_id": "G7_DATA_PROBABILITY_DETERMINE",
+        "grade": 7,
+        "strand": "Data",
+        "expectation_code": "D2.2",
+        "expectation_text": "Probability determine and compare the theoretical and experimental probabilities of two independent events happening and of two dependent events happening",
+        "notes": "describe likelihood; simple experimental probability"
+      }
+    ],
+    "Financial Literacy": [
+      {
+        "skill_id": "G7_FIN_MONEY_CONCEPTS",
+        "grade": 7,
+        "strand": "Financial Literacy",
+        "expectation_code": "F1.1",
+        "expectation_text": "Money Concepts identify and compare exchange rates, and convert foreign currencies to Canadian dollars and vice versa",
+        "notes": "money, budgets, transactions, consumer decisions"
+      },
+      {
+        "skill_id": "G7_FIN_FINANCIAL_MANAGEMENT",
+        "grade": 7,
+        "strand": "Financial Literacy",
+        "expectation_code": "F1.2",
+        "expectation_text": "Financial Management identify and describe various reliable sources of information that can help with planning for and reaching a financial goal",
+        "notes": "money, budgets, transactions, consumer decisions"
+      },
+      {
+        "skill_id": "G7_FIN_FINANCIAL_MANAGEMENT",
+        "grade": 7,
+        "strand": "Financial Literacy",
+        "expectation_code": "F1.3",
+        "expectation_text": "Financial Management create, track, and adjust sample budgets designed to meet longer-term financial goals for various scenarios",
+        "notes": "money, budgets, transactions, consumer decisions"
+      },
+      {
+        "skill_id": "G7_FIN_FINANCIAL_MANAGEMENT",
+        "grade": 7,
+        "strand": "Financial Literacy",
+        "expectation_code": "F1.4",
+        "expectation_text": "Financial Management identify various societal and personal factors that may influence financial decision making, and describe the effects that each might have",
+        "notes": "money, budgets, transactions, consumer decisions"
+      },
+      {
+        "skill_id": "G7_FIN_CONSUMER_CIVIC",
+        "grade": 7,
+        "strand": "Financial Literacy",
+        "expectation_code": "F1.5",
+        "expectation_text": "Consumer and Civic Awareness explain how interest rates can impact savings, investments, and the cost of borrowing to pay for goods and services over time",
+        "notes": "money, budgets, transactions, consumer decisions"
+      },
+      {
+        "skill_id": "G7_FIN_CONSUMER_CIVIC",
+        "grade": 7,
+        "strand": "Financial Literacy",
+        "expectation_code": "F1.6",
+        "expectation_text": "Consumer and Civic Awareness compare interest rates and fees for different accounts and loans offered by various financial institutions, and determine the best option for different scenarios",
+        "notes": "money, budgets, transactions, consumer decisions"
+      }
+    ],
+    "Number": [
+      {
+        "skill_id": "G7_NUM_RATIONAL_NUMBERS",
+        "grade": 7,
+        "strand": "Number",
+        "expectation_code": "B1.1",
+        "expectation_text": "Rational Numbers represent and compare whole numbers up to and including one billion, including in expanded form using powers of ten, and describe various ways they are used in everyday life",
+        "notes": "place value, comparing, operations, fractions"
+      },
+      {
+        "skill_id": "G7_NUM_RATIONAL_NUMBERS",
+        "grade": 7,
+        "strand": "Number",
+        "expectation_code": "B1.2",
+        "expectation_text": "Rational Numbers identify and represent perfect squares, and determine their square roots, in various contexts",
+        "notes": "place value, comparing, operations, fractions"
+      },
+      {
+        "skill_id": "G7_NUM_RATIONAL_NUMBERS",
+        "grade": 7,
+        "strand": "Number",
+        "expectation_code": "B1.3",
+        "expectation_text": "Rational Numbers read, represent, compare, and order rational numbers, including positive and negative fractions and decimal numbers to thousandths, in various contexts",
+        "notes": "place value, comparing, operations, fractions"
+      },
+      {
+        "skill_id": "G7_NUM_FRACTIONS_DECIMALS",
+        "grade": 7,
+        "strand": "Number",
+        "expectation_code": "B1.4",
+        "expectation_text": "Fractions, Decimals, and Percents use equivalent fractions to simplify fractions, when appropriate, in various contexts",
+        "notes": "place value, comparing, operations, fractions"
+      },
+      {
+        "skill_id": "G7_NUM_FRACTIONS_DECIMALS",
+        "grade": 7,
+        "strand": "Number",
+        "expectation_code": "B1.5",
+        "expectation_text": "Fractions, Decimals, and Percents generate fractions and decimal numbers between any two quantities 390",
+        "notes": "place value, comparing, operations, fractions"
+      },
+      {
+        "skill_id": "G7_NUM_FRACTIONS_DECIMALS",
+        "grade": 7,
+        "strand": "Number",
+        "expectation_code": "B1.6",
+        "expectation_text": "Fractions, Decimals, and Percents round decimal numbers to the nearest tenth, hundredth, or whole number, as applicable, in various contexts",
+        "notes": "place value, comparing, operations, fractions"
+      },
+      {
+        "skill_id": "G7_NUM_FRACTIONS_DECIMALS",
+        "grade": 7,
+        "strand": "Number",
+        "expectation_code": "B1.7",
+        "expectation_text": "Fractions, Decimals, and Percents convert between fractions, decimal numbers, and percents, in various contexts",
+        "notes": "place value, comparing, operations, fractions"
+      },
+      {
+        "skill_id": "G7_NUM_MULTIPLICATION_DIVISION",
+        "grade": 7,
+        "strand": "Number",
+        "expectation_code": "B2.1",
+        "expectation_text": "0 Multiplication and Division identify proportional and non-proportional situations and apply proportional reasoning to solve problems",
+        "notes": "place value, comparing, operations, fractions"
+      },
+      {
+        "skill_id": "G7_NUM_MATH_FACTS",
+        "grade": 7,
+        "strand": "Number",
+        "expectation_code": "B2.2",
+        "expectation_text": "Math Facts understand and recall commonly used percents, fractions, and decimal equivalents",
+        "notes": "place value, comparing, operations, fractions"
+      },
+      {
+        "skill_id": "G7_NUM_MENTAL_MATH",
+        "grade": 7,
+        "strand": "Number",
+        "expectation_code": "B2.3",
+        "expectation_text": "Mental Math use mental math strategies to increase and decrease a whole number by 1%, 5%, 10%, 25%, 50%, and 100%, and explain the strategies used",
+        "notes": "place value, comparing, operations, fractions"
+      },
+      {
+        "skill_id": "G7_NUM_ADDITION_SUBTRACTION",
+        "grade": 7,
+        "strand": "Number",
+        "expectation_code": "B2.4",
+        "expectation_text": "Addition and Subtraction use objects, diagrams, and equations to represent, describe, and solve situations involving addition and subtraction of integers",
+        "notes": "place value, comparing, operations, fractions"
+      },
+      {
+        "skill_id": "G7_NUM_ADDITION_SUBTRACTION",
+        "grade": 7,
+        "strand": "Number",
+        "expectation_code": "B2.5",
+        "expectation_text": "Addition and Subtraction add and subtract fractions, including by creating equivalent fractions, in various contexts",
+        "notes": "place value, comparing, operations, fractions"
+      },
+      {
+        "skill_id": "G7_NUM_MULTIPLICATION_DIVISION",
+        "grade": 7,
+        "strand": "Number",
+        "expectation_code": "B2.6",
+        "expectation_text": "Multiplication and Division determine the greatest common factor for a variety of whole numbers up to 144 and the lowest common multiple for two and three whole numbers",
+        "notes": "place value, comparing, operations, fractions"
+      },
+      {
+        "skill_id": "G7_NUM_MULTIPLICATION_DIVISION",
+        "grade": 7,
+        "strand": "Number",
+        "expectation_code": "B2.7",
+        "expectation_text": "Multiplication and Division evaluate and express repeated multiplication of whole numbers using exponential notation, in various contexts 402",
+        "notes": "place value, comparing, operations, fractions"
+      },
+      {
+        "skill_id": "G7_NUM_MULTIPLICATION_DIVISION",
+        "grade": 7,
+        "strand": "Number",
+        "expectation_code": "B2.8",
+        "expectation_text": "Multiplication and Division multiply and divide fractions by fractions, using tools in various contexts 403",
+        "notes": "place value, comparing, operations, fractions"
+      },
+      {
+        "skill_id": "G7_NUM_MULTIPLICATION_DIVISION",
+        "grade": 7,
+        "strand": "Number",
+        "expectation_code": "B2.9",
+        "expectation_text": "Multiplication and Division multiply and divide decimal numbers by decimal numbers, in various contexts 406",
+        "notes": "place value, comparing, operations, fractions"
+      }
+    ],
+    "Spatial Sense": [
+      {
+        "skill_id": "G7_SPAT_GEOMETRIC_REASONING",
+        "grade": 7,
+        "strand": "Spatial Sense",
+        "expectation_code": "E1.1",
+        "expectation_text": "Geometric Reasoning describe and classify cylinders, pyramids, and prisms according to their geometric properties, including plane and rotational symmetry",
+        "notes": "shapes, location, transformations; describe movement"
+      },
+      {
+        "skill_id": "G7_SPAT_GEOMETRIC_REASONING",
+        "grade": 7,
+        "strand": "Spatial Sense",
+        "expectation_code": "E1.2",
+        "expectation_text": "Geometric Reasoning draw top, front, and side views, as well as perspective views, of objects and physical spaces, using appropriate scales",
+        "notes": "shapes, location, transformations; describe movement"
+      },
+      {
+        "skill_id": "G7_SPAT_LOCATION_MOVEMENT",
+        "grade": 7,
+        "strand": "Spatial Sense",
+        "expectation_code": "E1.3",
+        "expectation_text": "Location and Movement perform dilations and describe the similarity between the image and the original shape 430",
+        "notes": "shapes, location, transformations; describe movement"
+      },
+      {
+        "skill_id": "G7_SPAT_LOCATION_MOVEMENT",
+        "grade": 7,
+        "strand": "Spatial Sense",
+        "expectation_code": "E1.4",
+        "expectation_text": "Location and Movement describe and perform translations, reflections, and rotations on a Cartesian plane, and predict the results of these transformations 431",
+        "notes": "shapes, location, transformations; describe movement"
+      },
+      {
+        "skill_id": "G7_SPAT_METRIC_SYSTEM",
+        "grade": 7,
+        "strand": "Spatial Sense",
+        "expectation_code": "E2.1",
+        "expectation_text": "The Metric System describe the differences and similarities between volume and capacity, and apply the relationship between millilitres (mL) and cubic centimetres (cm3) to solve problems",
+        "notes": "length, area, volume, mass, time"
+      },
+      {
+        "skill_id": "G7_SPAT_METRIC_SYSTEM",
+        "grade": 7,
+        "strand": "Spatial Sense",
+        "expectation_code": "E2.2",
+        "expectation_text": "The Metric System solve problems involving perimeter, area, and volume that require converting from one metric unit of measurement to another",
+        "notes": "length, area, volume, mass, time"
+      },
+      {
+        "skill_id": "G7_SPAT_CIRCLES_RELATIONSHIPS",
+        "grade": 7,
+        "strand": "Spatial Sense",
+        "expectation_code": "E2.3",
+        "expectation_text": "Circles use the relationships between the radius, diameter, and circumference of a circle to explain the formula for finding the circumference and to solve related problems",
+        "notes": "length, area, volume, mass, time"
+      },
+      {
+        "skill_id": "G7_SPAT_CIRCLES_CONSTRUCT",
+        "grade": 7,
+        "strand": "Spatial Sense",
+        "expectation_code": "E2.4",
+        "expectation_text": "Circles construct circles when given the radius, diameter, or circumference",
+        "notes": "length, area, volume, mass, time"
+      },
+      {
+        "skill_id": "G7_SPAT_CIRCLES_SHOW",
+        "grade": 7,
+        "strand": "Spatial Sense",
+        "expectation_code": "E2.5",
+        "expectation_text": "Circles show the relationships between the radius, diameter, and area of a circle, and use these relationships to explain the formula for measuring the area of a circle and to solve related problems",
+        "notes": "length, area, volume, mass, time"
+      },
+      {
+        "skill_id": "G7_SPAT_VOLUME_SURFACE",
+        "grade": 7,
+        "strand": "Spatial Sense",
+        "expectation_code": "E2.6",
+        "expectation_text": "Volume and Surface Area represent cylinders as nets and determine their surface area by adding the areas of their parts",
+        "notes": "length, area, volume, mass, time"
+      },
+      {
+        "skill_id": "G7_SPAT_VOLUME_SURFACE",
+        "grade": 7,
+        "strand": "Spatial Sense",
+        "expectation_code": "E2.7",
+        "expectation_text": "Volume and Surface Area show that the volume of a prism or cylinder can be determined by multiplying the area of its base by its height, and apply this relationship to find the area of the base, volume, and height of prisms and cylinders when given two of the three measurements",
+        "notes": "length, area, volume, mass, time"
+      }
+    ]
   },
-  "ALG_CODE_READ_MODIFY": {
-    "strand": "Algebra",
-    "expectation_code": "C2.3",
-    "expectation_text": "Read code to predict outcomes; alter to adjust constraints/parameters/outcomes",
-    "notes": "Debugging and modifying math code"
-  },
-  "ALG_COMPARE_LINEAR_NONLIN": {
-    "strand": "Algebra",
-    "expectation_code": "C3.1",
-    "expectation_text": "Compare graphs of linear and non-linear relations to describe rates of change and predict patterns",
-    "notes": "Connections to growing/shrinking patterns"
-  },
-  "ALG_REP_LINEAR": {
-    "strand": "Algebra",
-    "expectation_code": "C3.2",
-    "expectation_text": "Represent linear relations with materials, tables, graphs, equations; connect representations",
-    "notes": "Rates of change and initial values"
-  },
-  "ALG_COMPARE_2_LINEAR": {
-    "strand": "Algebra",
-    "expectation_code": "C3.3",
-    "expectation_text": "Compare two linear relations (y=ax+b) graphically/algebraically; interpret point of intersection",
-    "notes": "Meaning in context"
-  },
-  "ALG_COMPARE_CHARACT": {
-    "strand": "Algebra",
-    "expectation_code": "C4.1",
-    "expectation_text": "Compare characteristics of graphs, tables, and equations of linear and non-linear relations",
-    "notes": "Multiple representation analysis"
-  },
-  "ALG_GRAPH_FORMS": {
-    "strand": "Algebra",
-    "expectation_code": "C4.2",
-    "expectation_text": "Graph equations of forms x=k, y=k, x+y=k, x-y=k, ax+by=k, xy=k and inequalities; identify characteristics",
-    "notes": "Includes region identification"
-  },
-  "ALG_TRANSFORM_LINES": {
-    "strand": "Algebra",
-    "expectation_code": "C4.3",
-    "expectation_text": "Translate, reflect, rotate lines (y=ax); describe effects on graphs and equations",
-    "notes": "Transformations in coordinate plane"
-  },
-  "ALG_DETERMINE_EQ": {
-    "strand": "Algebra",
-    "expectation_code": "C4.4",
-    "expectation_text": "Determine equations of lines from graphs/tables/concrete representations; solve problems",
-    "notes": "Slope, y-intercept connections"
-  },
-  "DATA_BIGDATA_CONTEXT": {
-    "strand": "Data",
-    "expectation_code": "D1.1",
-    "expectation_text": "Identify a current context with large data; describe implications of collection, storage, representation, and use",
-    "notes": "Privacy, ethics, real-world big data"
-  },
-  "DATA_SINGLE_VAR": {
-    "strand": "Data",
-    "expectation_code": "D1.2",
-    "expectation_text": "Represent and analyse single-variable data using various methods incl. quartiles and box plots",
-    "notes": "Central tendency, spread"
-  },
-  "DATA_SCATTER_REGRESS": {
-    "strand": "Data",
-    "expectation_code": "D1.3",
-    "expectation_text": "Create scatter plot, test regression models, determine correlation, make predictions",
-    "notes": "Linear, non-linear regression"
-  },
-  "DATA_MODEL_VALUE": {
-    "strand": "Data",
-    "expectation_code": "D2.1",
-    "expectation_text": "Describe value of mathematical modelling in real life for decision making",
-    "notes": "Applications across domains"
-  },
-  "DATA_MODEL_QUESTION": {
-    "strand": "Data",
-    "expectation_code": "D2.2",
-    "expectation_text": "Identify a question requiring data collection/analysis and information needed to answer",
-    "notes": "Question formulation"
-  },
-  "DATA_MODEL_PLAN": {
-    "strand": "Data",
-    "expectation_code": "D2.3",
-    "expectation_text": "Plan and carry out data collection, identify assumptions and variables",
-    "notes": "Data sourcing and planning"
-  },
-  "DATA_MODEL_ANALYSE": {
-    "strand": "Data",
-    "expectation_code": "D2.4",
-    "expectation_text": "Display and analyse data to create a model, considering data nature, context, assumptions",
-    "notes": "Choosing representations and methods"
-  },
-  "DATA_MODEL_REPORT": {
-    "strand": "Data",
-    "expectation_code": "D2.5",
-    "expectation_text": "Report on model use, fit, limitations, and predictions",
-    "notes": "Communicating findings"
-  },
-  "FIN_CONTEXT_DECISION": {
-    "strand": "Financial Literacy",
-    "expectation_code": "F1.1",
-    "expectation_text": "Identify a financial situation and explain how it informs decisions using context and math knowledge",
-    "notes": "Personal finance scenarios"
-  },
-  "FIN_APPREC_DEPREC": {
-    "strand": "Financial Literacy",
-    "expectation_code": "F1.2",
-    "expectation_text": "Identify situations involving appreciation/depreciation and use graphs to answer questions",
-    "notes": "Value changes over time"
-  },
-  "FIN_COMPARE_INTEREST": {
-    "strand": "Financial Literacy",
-    "expectation_code": "F1.3",
-    "expectation_text": "Compare effects of interest rates, terms, calculation methods, down payments on total costs",
-    "notes": "Loans, mortgages, purchasing"
-  },
-  "FIN_MODIFY_BUDGET": {
-    "strand": "Financial Literacy",
-    "expectation_code": "F1.4",
-    "expectation_text": "Modify budgets to reflect changes in circumstances and provide rationale",
-    "notes": "Budgeting and financial planning"
-  },
-  "GEOM_DEV_CULTURE": {
-    "strand": "Geometry & Measurement",
-    "expectation_code": "E1.1",
-    "expectation_text": "Research a geometric concept or measurement system to tell its development story and cultural/career relevance",
-    "notes": "Math history and cross-disciplinary links"
-  },
-  "GEOM_CREATE_ANALYSE_DESIGNS": {
-    "strand": "Geometry & Measurement",
-    "expectation_code": "E1.2",
-    "expectation_text": "Create and analyse designs with geometric relationships and circle/triangle properties",
-    "notes": "Uses tools for design and analysis"
-  },
-  "GEOM_SOLVE_UNITS": {
-    "strand": "Geometry & Measurement",
-    "expectation_code": "E1.3",
-    "expectation_text": "Solve problems converting within/between measurement systems from various cultures",
-    "notes": "Unit conversions, representation, tech use"
-  },
-  "GEOM_DIMENSION_CHANGE": {
-    "strand": "Geometry & Measurement",
-    "expectation_code": "E1.4",
-    "expectation_text": "Show how dimension changes affect perimeter, area, surface area, volume",
-    "notes": "Scaling relationships"
-  },
-  "GEOM_RIGHT_TRIANGLES": {
-    "strand": "Geometry & Measurement",
-    "expectation_code": "E1.5",
-    "expectation_text": "Solve problems with side-length relationships in right triangles in real contexts",
-    "notes": "Pythagoras, trig, composite shapes"
-  },
-  "GEOM_VOLUME_REL": {
-    "strand": "Geometry & Measurement",
-    "expectation_code": "E1.6",
-    "expectation_text": "Solve problems using volume relationships between prisms/pyramids and cylinders/cones",
-    "notes": "Volume formulas and conversions"
-  },
-  "NUM_DEV_CULTURE": {
-    "strand": "Number",
-    "expectation_code": "B1.1",
-    "expectation_text": "Research a number concept to tell a story about its development and use in a specific culture",
-    "notes": "Connects math history with cultural context"
-  },
-  "NUM_SETS_COMPARE": {
-    "strand": "Number",
-    "expectation_code": "B1.2",
-    "expectation_text": "Describe how various subsets of a number system are defined, and compare similarities/differences",
-    "notes": "Natural, whole, integers, rationals, irrationals"
-  },
-  "NUM_DENSITY_INFINITY": {
-    "strand": "Number",
-    "expectation_code": "B1.3",
-    "expectation_text": "Use patterns and number relationships to explain density, infinity, and limit in number sets",
-    "notes": "Intro to real number properties"
-  },
-  "NUM_POWERS_SIGN_SIZE": {
-    "strand": "Number",
-    "expectation_code": "B2.1",
-    "expectation_text": "Analyse relationship between sign/size of an exponent and value of a power; express in scientific notation",
-    "notes": "Positive, negative, zero exponents"
-  },
-  "NUM_POWERS_LAWS": {
-    "strand": "Number",
-    "expectation_code": "B2.2",
-    "expectation_text": "Analyse and use exponent laws to simplify numeric/algebraic expressions",
-    "notes": "Product, quotient, power laws"
-  },
-  "NUM_INTEGERS_CONTEXT": {
-    "strand": "Number",
-    "expectation_code": "B3.1",
-    "expectation_text": "Apply understanding of integers to describe location, direction, amount, and changes",
-    "notes": "Number lines, temperature, elevation"
-  },
-  "NUM_UNIT_FRACTIONS": {
-    "strand": "Number",
-    "expectation_code": "B3.2",
-    "expectation_text": "Apply understanding of unit fractions and their relation to other fractions",
-    "notes": "Measurement and proportional reasoning"
-  },
-  "NUM_SIGNS_RATIOS": {
-    "strand": "Number",
-    "expectation_code": "B3.3",
-    "expectation_text": "Apply understanding of integers to explain effect of signs on ratios, rates, fractions, decimals",
-    "notes": "Sign rules"
-  },
-  "NUM_OPS_FRACTIONS": {
-    "strand": "Number",
-    "expectation_code": "B3.4",
-    "expectation_text": "Solve problems with operations on positive/negative fractions and mixed numbers",
-    "notes": "Formulas, measurement, linear relations"
-  },
-  "NUM_RATES_PERCENTS": {
-    "strand": "Number",
-    "expectation_code": "B3.5",
-    "expectation_text": "Pose and solve problems with rates, percentages, and proportions in real contexts",
-    "notes": "Connections to data, measurement, geometry, financial literacy"
+  "8": {
+    "Algebra": [
+      {
+        "skill_id": "G8_ALG_PATTERNS_IDENTIFY",
+        "grade": 8,
+        "strand": "Algebra",
+        "expectation_code": "C1.1",
+        "expectation_text": "Patterns identify and compare a variety of repeating, growing, and shrinking patterns, including patterns found in real-life contexts, and compare linear growing and shrinking patterns on the basis of their constant rates and initial values",
+        "notes": "identify patterns, rules, make predictions"
+      },
+      {
+        "skill_id": "G8_ALG_PATTERNS_CREATE",
+        "grade": 8,
+        "strand": "Algebra",
+        "expectation_code": "C1.2",
+        "expectation_text": "Patterns create and translate repeating, growing, and shrinking patterns involving rational numbers using various representations, including algebraic expressions and equations for linear growing and shrinking patterns 470",
+        "notes": "identify patterns, rules, make predictions"
+      },
+      {
+        "skill_id": "G8_ALG_PATTERNS_DETERMINE",
+        "grade": 8,
+        "strand": "Algebra",
+        "expectation_code": "C1.3",
+        "expectation_text": "Patterns determine pattern rules and use them to extend patterns, make and justify predictions, and identify missing elements in growing and shrinking patterns involving rational numbers, and use algebraic representations of the pattern rules to solve for unknown values in linear growing and shrinking patterns 472",
+        "notes": "identify patterns, rules, make predictions"
+      },
+      {
+        "skill_id": "G8_ALG_PATTERNS_CREATE",
+        "grade": 8,
+        "strand": "Algebra",
+        "expectation_code": "C1.4",
+        "expectation_text": "Patterns create and describe patterns to illustrate relationships among rational numbers",
+        "notes": "identify patterns, rules, make predictions"
+      },
+      {
+        "skill_id": "G8_ALG_VARIABLES_EXPRESSIONS",
+        "grade": 8,
+        "strand": "Algebra",
+        "expectation_code": "C2.1",
+        "expectation_text": "Variables and Expressions add and subtract monomials with a degree of 1, and add binomials with a degree of 1 that involve integers, using tools",
+        "notes": "equalities, inequalities, solve and balance"
+      },
+      {
+        "skill_id": "G8_ALG_VARIABLES_EXPRESSIONS",
+        "grade": 8,
+        "strand": "Algebra",
+        "expectation_code": "C2.2",
+        "expectation_text": "Variables and Expressions evaluate algebraic expressions that involve rational numbers",
+        "notes": "equalities, inequalities, solve and balance"
+      },
+      {
+        "skill_id": "G8_ALG_EQUALITIES_INEQUALITIES",
+        "grade": 8,
+        "strand": "Algebra",
+        "expectation_code": "C2.3",
+        "expectation_text": "Equalities and Inequalities solve equations that involve multiple terms, integers, and decimal numbers in various contexts, and verify solutions",
+        "notes": "equalities, inequalities, solve and balance"
+      },
+      {
+        "skill_id": "G8_ALG_EQUALITIES_INEQUALITIES",
+        "grade": 8,
+        "strand": "Algebra",
+        "expectation_code": "C2.4",
+        "expectation_text": "Equalities and Inequalities solve inequalities that involve integers, and verify and graph the solutions",
+        "notes": "equalities, inequalities, solve and balance"
+      },
+      {
+        "skill_id": "G8_ALG_CODING_SKILLS",
+        "grade": 8,
+        "strand": "Algebra",
+        "expectation_code": "C3.1",
+        "expectation_text": "Coding Skills solve problems and create computational representations of mathematical situations by writing and executing code, including code that involves the analysis of data in order to inform and communicate decisions 477",
+        "notes": "write algorithms, debug, predict outputs"
+      },
+      {
+        "skill_id": "G8_ALG_CODING_SKILLS",
+        "grade": 8,
+        "strand": "Algebra",
+        "expectation_code": "C3.2",
+        "expectation_text": "Coding Skills read and alter existing code involving the analysis of data in order to inform and communicate decisions, and describe how changes to the code affect the outcomes and the efficiency of the code 478",
+        "notes": "write algorithms, debug, predict outputs"
+      }
+    ],
+    "Data": [
+      {
+        "skill_id": "G8_DATA_DATA_COLLECTION",
+        "grade": 8,
+        "strand": "Data",
+        "expectation_code": "D1.1",
+        "expectation_text": "Data Collection and Organization identify situations involving one-variable data and situations involving two-variable data, and explain when each type of data is needed 480",
+        "notes": "collect, organize, display, interpret data"
+      },
+      {
+        "skill_id": "G8_DATA_DATA_COLLECTION",
+        "grade": 8,
+        "strand": "Data",
+        "expectation_code": "D1.2",
+        "expectation_text": "Data Collection and Organization collect continuous data to answer questions of interest involving two variables, and organize the data sets as appropriate in a table of values",
+        "notes": "collect, organize, display, interpret data"
+      },
+      {
+        "skill_id": "G8_DATA_DATA_VISUALIZATION",
+        "grade": 8,
+        "strand": "Data",
+        "expectation_code": "D1.3",
+        "expectation_text": "Data Visualization select from among a variety of graphs, including scatter plots, the type of graph best suited to represent various sets of data; display the data in the graphs with proper sources, titles, and labels, and appropriate scales; and justify their choice of graphs",
+        "notes": "collect, organize, display, interpret data"
+      },
+      {
+        "skill_id": "G8_DATA_DATA_VISUALIZATION",
+        "grade": 8,
+        "strand": "Data",
+        "expectation_code": "D1.4",
+        "expectation_text": "Data Visualization create an infographic about a data set, representing the data in appropriate ways, including in tables and scatter plots, and incorporating any other relevant information that helps to tell a story about the data 482",
+        "notes": "collect, organize, display, interpret data"
+      },
+      {
+        "skill_id": "G8_DATA_DATA_ANALYSIS",
+        "grade": 8,
+        "strand": "Data",
+        "expectation_code": "D1.5",
+        "expectation_text": "Data Analysis use mathematical language, including the terms \u201cstrong\u201d, \u201cweak\u201d, \u201cnone\u201d, \u201cpositive\u201d, and \u201cnegative\u201d, to describe the relationship between two variables for various data sets with and without outliers",
+        "notes": "collect, organize, display, interpret data"
+      },
+      {
+        "skill_id": "G8_DATA_DATA_ANALYSIS",
+        "grade": 8,
+        "strand": "Data",
+        "expectation_code": "D1.6",
+        "expectation_text": "Data Analysis analyse different sets of data presented in various ways, including in scatter plots and in misleading graphs, by asking and answering questions about the data, challenging preconceived notions, and drawing conclusions, then make convincing arguments and informed decisions",
+        "notes": "collect, organize, display, interpret data"
+      },
+      {
+        "skill_id": "G8_DATA_PROBABILITY_SOLVE",
+        "grade": 8,
+        "strand": "Data",
+        "expectation_code": "D2.1",
+        "expectation_text": "Probability solve various problems that involve probability, using appropriate tools and strategies, including Venn and tree diagrams",
+        "notes": "describe likelihood; simple experimental probability"
+      },
+      {
+        "skill_id": "G8_DATA_PROBABILITY_DETERMINE",
+        "grade": 8,
+        "strand": "Data",
+        "expectation_code": "D2.2",
+        "expectation_text": "Probability determine and compare the theoretical and experimental probabilities of multiple independent events happening and of multiple dependent events happening",
+        "notes": "describe likelihood; simple experimental probability"
+      }
+    ],
+    "Financial Literacy": [
+      {
+        "skill_id": "G8_FIN_MONEY_CONCEPTS",
+        "grade": 8,
+        "strand": "Financial Literacy",
+        "expectation_code": "F1.1",
+        "expectation_text": "Money Concepts describe some advantages and disadvantages of various methods of payment that can be used when dealing with multiple currencies and exchange rates",
+        "notes": "money, budgets, transactions, consumer decisions"
+      },
+      {
+        "skill_id": "G8_FIN_FINANCIAL_MANAGEMENT",
+        "grade": 8,
+        "strand": "Financial Literacy",
+        "expectation_code": "F1.2",
+        "expectation_text": "Financial Management create a financial plan to reach a long-term financial goal, accounting for income, expenses, and tax implications 496",
+        "notes": "money, budgets, transactions, consumer decisions"
+      },
+      {
+        "skill_id": "G8_FIN_FINANCIAL_MANAGEMENT",
+        "grade": 8,
+        "strand": "Financial Literacy",
+        "expectation_code": "F1.3",
+        "expectation_text": "Financial Management identify different ways to maintain a balanced budget, and use appropriate tools to track all income and spending, for several different scenarios",
+        "notes": "money, budgets, transactions, consumer decisions"
+      },
+      {
+        "skill_id": "G8_FIN_FINANCIAL_MANAGEMENT",
+        "grade": 8,
+        "strand": "Financial Literacy",
+        "expectation_code": "F1.4",
+        "expectation_text": "Financial Management determine the growth of simple and compound interest at various rates using digital tools, and explain the impact interest has on long-term financial planning",
+        "notes": "money, budgets, transactions, consumer decisions"
+      },
+      {
+        "skill_id": "G8_FIN_CONSUMER_CIVIC",
+        "grade": 8,
+        "strand": "Financial Literacy",
+        "expectation_code": "F1.5",
+        "expectation_text": "Consumer and Civic Awareness compare various ways for consumers to get more value for their money when spending, including taking advantage of sales and customer loyalty and incentive programs, and determine the best choice for different scenarios",
+        "notes": "money, budgets, transactions, consumer decisions"
+      },
+      {
+        "skill_id": "G8_FIN_CONSUMER_CIVIC",
+        "grade": 8,
+        "strand": "Financial Literacy",
+        "expectation_code": "F1.6",
+        "expectation_text": "Consumer and Civic Awareness compare interest rates, annual fees, and rewards and other incentives offered by various credit card companies and consumer contracts to determine the best value and the best choice for different scenarios",
+        "notes": "money, budgets, transactions, consumer decisions"
+      }
+    ],
+    "Number": [
+      {
+        "skill_id": "G8_NUM_RATIONAL_IRRATIONAL",
+        "grade": 8,
+        "strand": "Number",
+        "expectation_code": "B1.1",
+        "expectation_text": "Rational and Irrational Numbers represent and compare very large and very small numbers, including through the use of scientific notation, and describe various ways they are used in everyday life",
+        "notes": "place value, comparing, operations, fractions"
+      },
+      {
+        "skill_id": "G8_NUM_RATIONAL_IRRATIONAL",
+        "grade": 8,
+        "strand": "Number",
+        "expectation_code": "B1.2",
+        "expectation_text": "Rational and Irrational Numbers describe, compare, and order numbers in the real number system (rational and irrational numbers), separately and in combination, in various contexts",
+        "notes": "place value, comparing, operations, fractions"
+      },
+      {
+        "skill_id": "G8_NUM_RATIONAL_IRRATIONAL",
+        "grade": 8,
+        "strand": "Number",
+        "expectation_code": "B1.3",
+        "expectation_text": "Rational and Irrational Numbers estimate and calculate square roots, in various contexts",
+        "notes": "place value, comparing, operations, fractions"
+      },
+      {
+        "skill_id": "G8_NUM_FRACTIONS_DECIMALS",
+        "grade": 8,
+        "strand": "Number",
+        "expectation_code": "B1.4",
+        "expectation_text": "Fractions, Decimals, and Percents use fractions, decimal numbers, and percents, including percents of more than 100% or less than 1%, interchangeably and flexibly to solve a variety of problems",
+        "notes": "place value, comparing, operations, fractions"
+      },
+      {
+        "skill_id": "G8_NUM_PROPERTIES_RELATIONSHIPS",
+        "grade": 8,
+        "strand": "Number",
+        "expectation_code": "B2.1",
+        "expectation_text": "Properties and Relationships use the properties and order of operations, and the relationships between operations, to solve problems involving rational numbers, ratios, rates, and percents, including those requiring multiple steps or multiple operations",
+        "notes": "place value, comparing, operations, fractions"
+      },
+      {
+        "skill_id": "G8_NUM_MATH_FACTS",
+        "grade": 8,
+        "strand": "Number",
+        "expectation_code": "B2.2",
+        "expectation_text": "Math Facts understand and recall commonly used square numbers and their square roots",
+        "notes": "place value, comparing, operations, fractions"
+      },
+      {
+        "skill_id": "G8_NUM_MENTAL_MATH",
+        "grade": 8,
+        "strand": "Number",
+        "expectation_code": "B2.3",
+        "expectation_text": "Mental Math use mental math strategies to multiply and divide whole numbers and decimal numbers up to thousandths by powers of ten, and explain the strategies used",
+        "notes": "place value, comparing, operations, fractions"
+      },
+      {
+        "skill_id": "G8_NUM_ADDITION_SUBTRACTION",
+        "grade": 8,
+        "strand": "Number",
+        "expectation_code": "B2.4",
+        "expectation_text": "Addition and Subtraction add and subtract integers, using appropriate strategies, in various contexts",
+        "notes": "place value, comparing, operations, fractions"
+      },
+      {
+        "skill_id": "G8_NUM_ADDITION_SUBTRACTION",
+        "grade": 8,
+        "strand": "Number",
+        "expectation_code": "B2.5",
+        "expectation_text": "Addition and Subtraction add and subtract fractions, using appropriate strategies, in various contexts",
+        "notes": "place value, comparing, operations, fractions"
+      },
+      {
+        "skill_id": "G8_NUM_MULTIPLICATION_DIVISION",
+        "grade": 8,
+        "strand": "Number",
+        "expectation_code": "B2.6",
+        "expectation_text": "Multiplication and Division multiply and divide fractions by fractions, as well as by whole numbers and mixed numbers, in various contexts 460",
+        "notes": "place value, comparing, operations, fractions"
+      },
+      {
+        "skill_id": "G8_NUM_MULTIPLICATION_DIVISION",
+        "grade": 8,
+        "strand": "Number",
+        "expectation_code": "B2.7",
+        "expectation_text": "Multiplication and Division multiply and divide integers, using appropriate strategies, in various contexts",
+        "notes": "place value, comparing, operations, fractions"
+      },
+      {
+        "skill_id": "G8_NUM_MULTIPLICATION_DIVISION",
+        "grade": 8,
+        "strand": "Number",
+        "expectation_code": "B2.8",
+        "expectation_text": "Multiplication and Division compare proportional situations and determine unknown values in proportional situations, and apply proportional reasoning to solve problems in various contexts",
+        "notes": "place value, comparing, operations, fractions"
+      }
+    ],
+    "Spatial Sense": [
+      {
+        "skill_id": "G8_SPAT_GEOMETRIC_REASONING",
+        "grade": 8,
+        "strand": "Spatial Sense",
+        "expectation_code": "E1.1",
+        "expectation_text": "Geometric Reasoning identify geometric properties of tessellating shapes and identify the transformations that occur in the tessellations",
+        "notes": "shapes, location, transformations; describe movement"
+      },
+      {
+        "skill_id": "G8_SPAT_GEOMETRIC_REASONING",
+        "grade": 8,
+        "strand": "Spatial Sense",
+        "expectation_code": "E1.2",
+        "expectation_text": "Geometric Reasoning make objects and models using appropriate scales, given their top, front, and side views or their perspective views",
+        "notes": "shapes, location, transformations; describe movement"
+      },
+      {
+        "skill_id": "G8_SPAT_GEOMETRIC_REASONING",
+        "grade": 8,
+        "strand": "Spatial Sense",
+        "expectation_code": "E1.3",
+        "expectation_text": "Geometric Reasoning use scale drawings to calculate actual lengths and areas, and reproduce scale drawings at different ratios 488",
+        "notes": "shapes, location, transformations; describe movement"
+      },
+      {
+        "skill_id": "G8_SPAT_LOCATION_MOVEMENT",
+        "grade": 8,
+        "strand": "Spatial Sense",
+        "expectation_code": "E1.4",
+        "expectation_text": "Location and Movement describe and perform translations, reflections, rotations, and dilations on a Cartesian plane, and predict the results of these transformations",
+        "notes": "shapes, location, transformations; describe movement"
+      },
+      {
+        "skill_id": "G8_SPAT_METRIC_SYSTEM",
+        "grade": 8,
+        "strand": "Spatial Sense",
+        "expectation_code": "E2.1",
+        "expectation_text": "The Metric System represent very large (mega, giga, tera) and very small (micro, nano, pico) metric units using models, base ten relationships, and exponential notation 490",
+        "notes": "length, area, volume, mass, time"
+      },
+      {
+        "skill_id": "G8_SPAT_LINES_ANGLES",
+        "grade": 8,
+        "strand": "Spatial Sense",
+        "expectation_code": "E2.2",
+        "expectation_text": "Lines and Angles solve problems involving angle properties, including the properties of intersecting and parallel lines and of polygons",
+        "notes": "length, area, volume, mass, time"
+      },
+      {
+        "skill_id": "G8_SPAT_LENGTH_AREA",
+        "grade": 8,
+        "strand": "Spatial Sense",
+        "expectation_code": "E2.3",
+        "expectation_text": "Length, Area, and Volume solve problems involving the perimeter, circumference, area, volume, and surface area of composite two-dimensional shapes and three-dimensional objects, using appropriate formulas 492",
+        "notes": "length, area, volume, mass, time"
+      },
+      {
+        "skill_id": "G8_SPAT_LENGTH_AREA",
+        "grade": 8,
+        "strand": "Spatial Sense",
+        "expectation_code": "E2.4",
+        "expectation_text": "Length, Area, and Volume describe the Pythagorean relationship using various geometric models, and apply the theorem to solve problems involving an unknown side length for a given right triangle",
+        "notes": "length, area, volume, mass, time"
+      }
+    ]
   }
 }
