@@ -10,9 +10,9 @@ from reportlab.lib import colors
 
 from typing import List, Dict, Any
 
-st.set_page_config(page_title="K–9 Worksheet Builder (Ontario)", layout="wide")
-st.title("K–9 Worksheet Builder (Ontario Math)")
-st.caption("Select grade → strand → skill, generate questions with an LLM, curate, and export a polished PDF worksheet.")
+st.set_page_config(page_title="Grade 1–9 Math Question Generator (Ontario)", layout="wide")
+st.title("Grade 1–9 Question Generator (Ontario Math)")
+st.caption("Select grade → strand → skill, generate questions, curate, and export a polished PDF worksheet.")
 
 @st.cache_data
 def load_skills():

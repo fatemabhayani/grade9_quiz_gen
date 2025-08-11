@@ -1,0 +1,39 @@
+# Python cache / compiled files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+.venv.bak/
+
+# OS / Editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Jupyter Notebook checkpoints (if any)
+.ipynb_checkpoints/
+
+# Logs & temp files
+*.log
+*.tmp
+*.swp
+
+# Streamlit cache
+.streamlit/
+
+# Build & distribution artifacts
+build/
+dist/
+*.egg-info/
+
+# Environment variables file
+.env
+.env.*
