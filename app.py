@@ -1,6 +1,6 @@
 
 import os, json, time
-import streamlit as st
+import streamlit as st, inspect
 import pandas as pd
 
 # ---------- Settings ----------
@@ -12,11 +12,18 @@ st.caption("Pick a skill → generate questions (easy/medium/hard) → copy or e
 for k in ("HTTP_PROXY","HTTPS_PROXY","ALL_PROXY","http_proxy","https_proxy","all_proxy"):
     os.environ.pop(k, None)
 
+try:
+    from openai import __version__ as openai_version
+    import httpx
+    sig = str(inspect.signature(httpx.Client.__init__))
+    st.sidebar.info(f"OpenAI SDK: {openai_version} | httpx: {httpx.__version__}\nhttpx.Client.__init__{sig}")
+except Exception as e:
+    st.sidebar.error(f"Version probe failed: {e}")
+
 def call_llm(api_key, model, prompt, max_tokens):
     # Try modern SDK first
     try:
-        from openai import OpenAI, __version__ as openai_version
-        st.sidebar.success(f"OpenAI SDK detected: {openai_version}")
+        from openai import OpenAI
         client = OpenAI(api_key=api_key)
         resp = client.chat.completions.create(
             model=model,
