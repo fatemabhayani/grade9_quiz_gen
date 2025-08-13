@@ -39,7 +39,7 @@ Teachers can select a grade, strand, and skill, choose difficulty, and instantly
 
 🚀 Planned Enhancements
 
-    Teacher Branding: Upload logo + school name → auto-styled header/footer
+     Teacher Branding: Upload logo + school name → auto-styled header/footer
 
     Theme Presets: Classic, Grid, Exam
 
@@ -75,28 +75,6 @@ Teachers can select a grade, strand, and skill, choose difficulty, and instantly
 
     Validation: (Planned) SymPy
 
-⚡ Installation
-
-    Clone the repo
-
-git clone https://github.com/yourusername/ontario-math-worksheet-gen.git
-cd ontario-math-worksheet-gen
-
-Create a virtual environment
-
-python -m venv venv
-source venv/bin/activate   # Mac/Linux
-venv\Scripts\activate      # Windows
-
-Install dependencies
-
-pip install -r requirements.txt
-
-Add your OpenAI API key
-Create a .env file:
-
-    OPENAI_API_KEY=your_api_key_here
-
 ▶ Usage
 
 Run the app locally:
@@ -108,20 +86,3 @@ streamlit run app.py
     Generate and preview questions
 
     Export to PDF with answer key
-
-🤝 Contributing
-
-We welcome contributions!
-Planned contributions include:
-
-    Adding SymPy validation logic
-
-    Expanding curriculum mapping
-
-    Improving PDF layouts and themes
-
-    Enhancing accessibility features
-
-📜 License
-
-MIT License — feel free to use and adapt with attribution.
